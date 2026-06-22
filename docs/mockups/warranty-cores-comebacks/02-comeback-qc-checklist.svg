@@ -1,0 +1,119 @@
+<svg viewBox="0 0 1440 800" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Comeback &amp; QC checklist</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-box" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 2.6 l6.4 3.5 v7.8 l-6.4 3.5 -6.4-3.5 v-7.8z"/><path d="M3.6 6.1 L10 9.6 l6.4-3.5 M10 9.6 V17.4"/></g>
+    <g id="ic-building" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4.5" y="3.5" width="11" height="14" rx="1.2"/><path d="M7.5 7 h1 M11.5 7 h1 M7.5 10 h1 M11.5 10 h1"/><path d="M8.5 17.5 v-3 h3 v3"/></g>
+    <g id="ic-cart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4 h2.2 l1.8 8.4 h7.6 l1.6-5.8 H6.2"/><circle cx="8" cy="16" r="1.3"/><circle cx="14.5" cy="16" r="1.3"/></g>
+    <g id="ic-bill" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2.6 h10 v15 l-2-1.3 -2 1.3 -2-1.3 -2 1.3 -2-1.3z"/><path d="M7.4 7 h5.2 M7.4 10 h5.2 M7.4 13 h3.2"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+    <g id="ic-chart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 16.5 h14"/><rect x="4.5" y="9" width="2.6" height="5.5"/><rect x="8.7" y="6" width="2.6" height="8.5"/><rect x="12.9" y="11" width="2.6" height="3.5"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-check" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.5 l3.6 3.6 L16 6"/></g>
+    <g id="ic-chev" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8 l5 5 5-5"/></g>
+    <g id="ic-loop" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10 a6 6 0 0 1 10-4.5 L16 7 M16 3 v4 h-4"/><path d="M16 10 a6 6 0 0 1-10 4.5 L4 13 M4 17 v-4 h4"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.sub{fill:#5A6A85;font-weight:400}.lbl{fill:#8A95A5;font-weight:600}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.val{fill:#2A3547;font-weight:600}
+  </style>
+  <rect width="1440" height="800" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="800" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="800" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <rect x="12" y="172" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-clip" x="22" y="177" width="18" height="18"/></g><text x="50" y="191" font-size="12.5" font-weight="600" fill="#c479c2">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="214" width="18" height="18"/></g><text x="50" y="228" class="navi" font-size="12.5">Customers</text>
+  <g style="color:#5A6A85"><use href="#ic-truck" x="22" y="252" width="18" height="18"/></g><text x="50" y="266" class="navi" font-size="12.5">Vehicles</text>
+  <text x="24" y="304" class="col" font-size="11">PARTS &amp; VENDORS</text>
+  <g style="color:#5A6A85"><use href="#ic-box" x="22" y="314" width="18" height="18"/></g><text x="50" y="328" class="navi" font-size="12.5">Inventory / parts</text>
+  <g style="color:#5A6A85"><use href="#ic-cart" x="22" y="352" width="18" height="18"/></g><text x="50" y="366" class="navi" font-size="12.5">Purchase orders</text>
+  <g style="color:#5A6A85"><use href="#ic-building" x="22" y="390" width="18" height="18"/></g><text x="50" y="404" class="navi" font-size="12.5">Vendors</text>
+  <text x="24" y="442" class="col" font-size="11">BILLING</text>
+  <g style="color:#5A6A85"><use href="#ic-bill" x="22" y="452" width="18" height="18"/></g><text x="50" y="466" class="navi" font-size="12.5">Invoices</text>
+  <g style="color:#5A6A85"><use href="#ic-card" x="22" y="490" width="18" height="18"/></g><text x="50" y="504" class="navi" font-size="12.5">Payments</text>
+  <g style="color:#5A6A85"><use href="#ic-chart" x="22" y="528" width="18" height="18"/></g><text x="50" y="542" class="navi" font-size="12.5">Reports</text>
+  <text x="24" y="580" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="590" width="18" height="18"/></g><text x="50" y="604" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search WO, customer, plate or VIN…</text>
+  <rect x="1118" y="17" width="160" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-check" x="1146" y="28" width="16" height="16"/></g><text x="1176" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">Pass QC &amp; deliver</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">M. Singh</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Lead tech</text>
+  <circle cx="1392" cy="36" r="16" fill="#E6FBFA"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#0F9C96" text-anchor="middle">MS</text>
+
+  <text x="280" y="116" font-size="22" font-weight="700" fill="#2A3547">Comeback &amp; quality control</text>
+  <text x="280" y="138" font-size="13" fill="#5A6A85">WO-10428 · 2019 Ford F-150 · log the comeback, then pass QC before delivery</text>
+
+  <!-- LEFT comeback -->
+  <rect x="280" y="158" width="620" height="600" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <g style="color:#c479c2"><use href="#ic-loop" x="304" y="178" width="20" height="20"/></g>
+  <text x="332" y="192" class="h" font-size="15">Comeback record</text>
+  <rect x="788" y="176" width="100" height="22" rx="11" fill="#FEF4E6"/><text x="838" y="191" font-size="10.5" font-weight="700" fill="#A8720F" text-anchor="middle">Rework · no-charge</text>
+  <line x1="304" y1="212" x2="876" y2="212" stroke="#ECEFF4"/>
+  <rect x="304" y="226" width="572" height="58" rx="9" fill="#FBF3FB" stroke="#EBD3EA"/>
+  <text x="322" y="248" class="lbl" font-size="10">LINKED ORIGINAL RO</text><text x="322" y="270" class="val" font-size="13">WO-10210 · Front brake service · 12 Mar 2026 · 78,400 km</text>
+  <text x="304" y="312" class="lbl" font-size="10.5">CUSTOMER CONCERN</text><text x="304" y="332" class="cell" font-size="13">"Grinding / squeal from front when braking has returned."</text>
+  <text x="304" y="368" class="lbl" font-size="10.5">ROOT-CAUSE CATEGORY</text>
+  <rect x="304" y="378" width="280" height="34" rx="8" fill="#F7F9FC" stroke="#E8EDF3"/><text x="320" y="399" class="val" font-size="12.5">Defective part (premature wear)</text><g style="color:#8A95A5"><use href="#ic-chev" x="552" y="387" width="16" height="16"/></g>
+  <text x="612" y="368" class="lbl" font-size="10.5">RESPONSIBLE TECH</text>
+  <rect x="612" y="378" width="264" height="34" rx="8" fill="#F7F9FC" stroke="#E8EDF3"/><circle cx="632" cy="395" r="10" fill="#E6FBFA"/><text x="632" y="399" font-size="9" font-weight="700" fill="#0F9C96" text-anchor="middle">AR</text><text x="650" y="399" class="val" font-size="12.5">A. Roy</text>
+  <line x1="304" y1="432" x2="876" y2="432" stroke="#F4F6FA"/>
+  <text x="304" y="458" class="lbl" font-size="10.5">CHARGE</text>
+  <rect x="304" y="468" width="160" height="32" rx="8" fill="#FBF3FB"/><circle cx="322" cy="484" r="6" fill="#c479c2"/><circle cx="322" cy="484" r="2.4" fill="#fff"/><text x="338" y="488" class="val" font-size="12">No-charge (warranty)</text>
+  <rect x="476" y="468" width="130" height="32" rx="8" fill="#F4F6FB"/><circle cx="494" cy="484" r="6" fill="#fff" stroke="#C7D0DC"/><text x="510" y="488" class="mut" font-size="12">Chargeable</text>
+  <text x="304" y="528" class="lbl" font-size="10.5">REWORK COST (internal)</text>
+  <g font-size="12.5"><text x="304" y="552" class="cell">Parts (warranty replacement)</text><text x="876" y="552" class="val" text-anchor="end">$0.00</text>
+  <line x1="304" y1="566" x2="876" y2="566" stroke="#F4F6FA"/>
+  <text x="304" y="590" class="cell">Labour — 1.0 hr internal cost</text><text x="876" y="590" class="val" text-anchor="end">$52.00</text>
+  <line x1="304" y1="604" x2="876" y2="604" stroke="#F4F6FA"/>
+  <text x="304" y="628" class="cell">Recovered via warranty claim WCLM-204</text><text x="876" y="628" class="val" text-anchor="end" fill="#0F9C96">−$52.00</text></g>
+  <rect x="304" y="652" width="572" height="86" rx="10" fill="#F4F6FB"/>
+  <text x="324" y="678" class="lbl" font-size="10">EVIDENCE</text>
+  <rect x="324" y="688" width="76" height="40" rx="7" fill="#FFFFFF" stroke="#E2E8F0"/><rect x="408" y="688" width="76" height="40" rx="7" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="500" y="704" class="mut" font-size="11">DVI photos &amp; old part attached · feeds comeback-rate</text><text x="500" y="722" class="mut" font-size="11">analytics and the supplier defect log.</text>
+
+  <!-- RIGHT QC + KPI -->
+  <rect x="924" y="158" width="492" height="372" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="948" y="188" class="h" font-size="15">Pre-delivery QC checklist</text>
+  <rect x="1300" y="172" width="92" height="22" rx="11" fill="#E6FBF5"/><text x="1346" y="187" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">PASS</text>
+  <text x="948" y="208" class="mut" font-size="11">Brake-job template · must pass before status → Ready</text>
+  <g font-size="12.5">
+  <rect x="948" y="222" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="224" width="16" height="16"/></g><text x="980" y="237" class="cell">Wheel lug nuts torqued to 150 ft-lb (star pattern)</text>
+  <rect x="948" y="252" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="254" width="16" height="16"/></g><text x="980" y="267" class="cell">Brake fluid level OK · no leaks</text>
+  <rect x="948" y="282" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="284" width="16" height="16"/></g><text x="980" y="297" class="cell">Road test completed (8 km) · pedal firm, no noise</text>
+  <rect x="948" y="312" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="314" width="16" height="16"/></g><text x="980" y="327" class="cell">Warning lights cleared · post-scan clean</text>
+  <rect x="948" y="342" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="344" width="16" height="16"/></g><text x="980" y="357" class="cell">Pads bedded-in per procedure</text>
+  <rect x="948" y="372" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="374" width="16" height="16"/></g><text x="980" y="387" class="cell">Floor mat / steering wheel clean</text>
+  <rect x="948" y="402" width="20" height="20" rx="6" fill="#0F9C96"/><g style="color:#fff"><use href="#ic-check" x="950" y="404" width="16" height="16"/></g><text x="980" y="417" class="cell">Re-torque reminder set (100 km)</text>
+  </g>
+  <line x1="948" y1="442" x2="1392" y2="442" stroke="#ECEFF4"/>
+  <text x="948" y="468" class="lbl" font-size="10">SIGNED OFF</text><text x="948" y="488" class="val" font-size="13">M. Singh · 18 Jun 2026, 4:40 PM</text>
+  <rect x="948" y="502" width="444" height="14" rx="7" fill="#EEF1F6"/><rect x="948" y="502" width="444" height="14" rx="7" fill="#16CDC7"/>
+  <text x="1392" y="513" font-size="10" font-weight="700" fill="#0F9C96" text-anchor="end">7 / 7 complete</text>
+
+  <!-- comeback rate KPI -->
+  <rect x="924" y="546" width="492" height="212" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="948" y="576" class="h" font-size="15">Comeback rate</text><text x="1392" y="576" class="mut" font-size="11" text-anchor="end">Last 90 days · target &lt; 3%</text>
+  <text x="948" y="616" class="val" font-size="30">2.1%</text><text x="1040" y="610" class="mut" font-size="11.5">shop overall</text><text x="1040" y="628" class="mut" font-size="11.5">28 of 1,330 ROs</text>
+  <rect x="1250" y="592" width="142" height="30" rx="8" fill="#E6FBF5"/><text x="1321" y="612" font-size="11.5" font-weight="600" fill="#0F9C96" text-anchor="middle">▼ 0.4 vs last qtr</text>
+  <g font-size="11.5">
+  <text x="948" y="662" class="cell">A. Roy</text><rect x="1020" y="652" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="1020" y="652" width="112" height="12" rx="6" fill="#16CDC7"/><text x="1392" y="662" class="mut" text-anchor="end">2.8%</text>
+  <text x="948" y="690" class="cell">M. Singh</text><rect x="1020" y="680" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="1020" y="680" width="56" height="12" rx="6" fill="#16CDC7"/><text x="1392" y="690" class="mut" text-anchor="end">1.4%</text>
+  <text x="948" y="718" class="cell">K. Lee</text><rect x="1020" y="708" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="1020" y="708" width="144" height="12" rx="6" fill="#E26D63"/><text x="1392" y="718" class="mut" text-anchor="end">3.6%</text>
+  </g>
+  <text x="948" y="744" class="mut" font-size="10.5">Driven by the root-cause data captured on every comeback above.</text>
+</svg>
