@@ -1,0 +1,129 @@
+<svg viewBox="0 0 1440 800" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — TPMS &amp; DOT tire registration</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-box" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 2.6 l6.4 3.5 v7.8 l-6.4 3.5 -6.4-3.5 v-7.8z"/><path d="M3.6 6.1 L10 9.6 l6.4-3.5 M10 9.6 V17.4"/></g>
+    <g id="ic-building" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4.5" y="3.5" width="11" height="14" rx="1.2"/><path d="M7.5 7 h1 M11.5 7 h1 M7.5 10 h1 M11.5 10 h1"/><path d="M8.5 17.5 v-3 h3 v3"/></g>
+    <g id="ic-cart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4 h2.2 l1.8 8.4 h7.6 l1.6-5.8 H6.2"/><circle cx="8" cy="16" r="1.3"/><circle cx="14.5" cy="16" r="1.3"/></g>
+    <g id="ic-bill" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2.6 h10 v15 l-2-1.3 -2 1.3 -2-1.3 -2 1.3 -2-1.3z"/><path d="M7.4 7 h5.2 M7.4 10 h5.2 M7.4 13 h3.2"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+    <g id="ic-chart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 16.5 h14"/><rect x="4.5" y="9" width="2.6" height="5.5"/><rect x="8.7" y="6" width="2.6" height="8.5"/><rect x="12.9" y="11" width="2.6" height="3.5"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-check" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.5 l3.6 3.6 L16 6"/></g>
+    <g id="ic-rss" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 11 a5 5 0 0 1 5 5 M4 7 a9 9 0 0 1 9 9"/><circle cx="4.5" cy="15.5" r="1.2" fill="currentColor"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.lbl{fill:#8A95A5;font-weight:600}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.val{fill:#2A3547;font-weight:600}.pill{font-weight:600}.mono{font-family:'Consolas','Courier New',monospace}
+  </style>
+  <rect width="1440" height="800" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="800" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="800" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <rect x="12" y="172" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-clip" x="22" y="177" width="18" height="18"/></g><text x="50" y="191" font-size="12.5" font-weight="600" fill="#c479c2">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="214" width="18" height="18"/></g><text x="50" y="228" class="navi" font-size="12.5">Customers</text>
+  <g style="color:#5A6A85"><use href="#ic-truck" x="22" y="252" width="18" height="18"/></g><text x="50" y="266" class="navi" font-size="12.5">Vehicles</text>
+  <text x="24" y="304" class="col" font-size="11">PARTS &amp; VENDORS</text>
+  <g style="color:#5A6A85"><use href="#ic-box" x="22" y="314" width="18" height="18"/></g><text x="50" y="328" class="navi" font-size="12.5">Inventory / parts</text>
+  <g style="color:#5A6A85"><use href="#ic-cart" x="22" y="352" width="18" height="18"/></g><text x="50" y="366" class="navi" font-size="12.5">Purchase orders</text>
+  <g style="color:#5A6A85"><use href="#ic-building" x="22" y="390" width="18" height="18"/></g><text x="50" y="404" class="navi" font-size="12.5">Vendors</text>
+  <text x="24" y="442" class="col" font-size="11">BILLING</text>
+  <g style="color:#5A6A85"><use href="#ic-bill" x="22" y="452" width="18" height="18"/></g><text x="50" y="466" class="navi" font-size="12.5">Invoices</text>
+  <g style="color:#5A6A85"><use href="#ic-card" x="22" y="490" width="18" height="18"/></g><text x="50" y="504" class="navi" font-size="12.5">Payments</text>
+  <g style="color:#5A6A85"><use href="#ic-chart" x="22" y="528" width="18" height="18"/></g><text x="50" y="542" class="navi" font-size="12.5">Reports</text>
+  <text x="24" y="580" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="590" width="18" height="18"/></g><text x="50" y="604" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search WO, customer, plate or VIN…</text>
+  <rect x="1118" y="17" width="160" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-check" x="1146" y="28" width="16" height="16"/></g><text x="1182" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">Complete</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">A. Roy</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Technician</text>
+  <circle cx="1392" cy="36" r="16" fill="#E6FBFA"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#0F9C96" text-anchor="middle">AR</text>
+
+  <text x="280" y="116" font-size="22" font-weight="700" fill="#2A3547">TPMS &amp; tire registration</text>
+  <text x="280" y="138" font-size="13" fill="#5A6A85">WO-10500 · 2019 Ford F-150 · 4× Michelin Defender LTX installed</text>
+
+  <!-- LEFT TPMS -->
+  <rect x="280" y="158" width="560" height="600" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <g style="color:#c479c2"><use href="#ic-rss" x="304" y="178" width="20" height="20"/></g><text x="332" y="192" class="h" font-size="15">TPMS service</text>
+  <rect x="744" y="176" width="96" height="22" rx="11" fill="#FEF4E6"/><text x="792" y="191" class="pill" font-size="10.5" fill="#A8720F" text-anchor="middle">Relearn needed</text>
+  <line x1="304" y1="212" x2="816" y2="212" stroke="#ECEFF4"/>
+  <!-- car schematic -->
+  <rect x="360" y="232" width="160" height="240" rx="40" fill="#F7F9FC" stroke="#E2E8F0"/>
+  <rect x="404" y="252" width="72" height="40" rx="8" fill="#EEF1F6"/>
+  <rect x="336" y="250" width="22" height="46" rx="6" fill="#2A3547"/><rect x="522" y="250" width="22" height="46" rx="6" fill="#2A3547"/>
+  <rect x="336" y="408" width="22" height="46" rx="6" fill="#2A3547"/><rect x="522" y="408" width="22" height="46" rx="6" fill="#2A3547"/>
+  <text x="440" y="356" class="mut" font-size="11" text-anchor="middle">Front</text>
+  <text x="300" y="246" class="lbl" font-size="9" text-anchor="middle">LF</text><text x="580" y="246" class="lbl" font-size="9" text-anchor="middle">RF</text><text x="300" y="404" class="lbl" font-size="9" text-anchor="middle">LR</text><text x="580" y="404" class="lbl" font-size="9" text-anchor="middle">RR</text>
+  <!-- sensor table -->
+  <g class="col" font-size="9.5"><text x="304" y="506">POS</text><text x="372" y="506">SENSOR ID</text><text x="560" y="506">BATTERY</text><text x="816" y="506" text-anchor="end">STATUS</text></g>
+  <line x1="304" y1="514" x2="816" y2="514" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <text x="304" y="540" class="val">LF</text><text x="372" y="540" class="mono" fill="#2A3547" font-size="12">0x A1B2 4F</text><text x="560" y="540" class="cell">2.9 V</text><rect x="744" y="528" width="72" height="20" rx="10" fill="#E6FBF5"/><text x="780" y="542" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  <line x1="304" y1="556" x2="816" y2="556" stroke="#F4F6FA"/>
+  <text x="304" y="582" class="val">RF</text><text x="372" y="582" class="mono" fill="#2A3547" font-size="12">0x A1B3 51</text><text x="560" y="582" class="cell">2.8 V</text><rect x="744" y="570" width="72" height="20" rx="10" fill="#E6FBF5"/><text x="780" y="584" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  <line x1="304" y1="598" x2="816" y2="598" stroke="#F4F6FA"/>
+  <text x="304" y="624" class="val">LR</text><text x="372" y="624" class="mono" fill="#2A3547" font-size="12">0x A1B4 60</text><text x="560" y="624" class="cell">2.5 V</text><rect x="730" y="612" width="86" height="20" rx="10" fill="#FEF4E6"/><text x="773" y="626" class="pill" font-size="9.5" fill="#A8720F" text-anchor="middle">Low batt.</text>
+  <line x1="304" y1="640" x2="816" y2="640" stroke="#F4F6FA"/>
+  <text x="304" y="666" class="val">RR</text><text x="372" y="666" class="mono" fill="#2A3547" font-size="12">0x A1B5 62</text><text x="560" y="666" class="cell">2.9 V</text><rect x="744" y="654" width="72" height="20" rx="10" fill="#E6FBF5"/><text x="780" y="668" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  </g>
+  <rect x="304" y="690" width="512" height="50" rx="9" fill="#FBF3FB" stroke="#EBD3EA"/>
+  <text x="324" y="712" class="val" font-size="12">OBD relearn — Ford procedure</text><text x="324" y="730" class="mut" font-size="10.5">Trigger each sensor FL→FR→RR→RL, then OBD write</text>
+  <rect x="676" y="700" width="120" height="30" rx="8" fill="#c479c2"/><text x="736" y="720" font-size="11.5" font-weight="600" fill="#fff" text-anchor="middle">Start relearn</text>
+
+  <!-- RIGHT DOT registration -->
+  <rect x="860" y="158" width="556" height="600" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="884" y="192" class="h" font-size="15">DOT codes, recall check &amp; registration</text>
+  <line x1="884" y1="208" x2="1392" y2="208" stroke="#ECEFF4"/>
+  <text x="884" y="232" class="mut" font-size="11.5">Each new tire's DOT is captured, checked against recalls, then registered with the manufacturer.</text>
+  <!-- tire rows -->
+  <g font-size="12.5">
+  <rect x="884" y="246" width="508" height="64" rx="10" fill="#FAFBFD" stroke="#ECEFF4"/>
+  <text x="904" y="270" class="val">LF · Michelin Defender LTX</text><text x="904" y="290" class="mono mut" font-size="11">DOT B3 4C ABC 2624</text>
+  <rect x="1130" y="258" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="1176" y="272" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Recall clear</text>
+  <rect x="1234" y="258" width="140" height="20" rx="10" fill="#EAF2FE"/><g style="color:#1A5FB4"><use href="#ic-check" x="1244" y="259" width="15" height="15"/></g><text x="1320" y="272" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">Registered</text>
+  <text x="1130" y="296" class="mut" font-size="10">Wk 26 / 2024</text>
+  </g>
+  <g font-size="12.5">
+  <rect x="884" y="320" width="508" height="64" rx="10" fill="#FAFBFD" stroke="#ECEFF4"/>
+  <text x="904" y="344" class="val">RF · Michelin Defender LTX</text><text x="904" y="364" class="mono mut" font-size="11">DOT B3 4C ABC 2624</text>
+  <rect x="1130" y="332" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="1176" y="346" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Recall clear</text>
+  <rect x="1234" y="332" width="140" height="20" rx="10" fill="#EAF2FE"/><g style="color:#1A5FB4"><use href="#ic-check" x="1244" y="333" width="15" height="15"/></g><text x="1320" y="346" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">Registered</text>
+  </g>
+  <g font-size="12.5">
+  <rect x="884" y="394" width="508" height="64" rx="10" fill="#FAFBFD" stroke="#ECEFF4"/>
+  <text x="904" y="418" class="val">LR · Michelin Defender LTX</text><text x="904" y="438" class="mono mut" font-size="11">DOT B3 4C ABC 2624</text>
+  <rect x="1130" y="406" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="1176" y="420" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Recall clear</text>
+  <rect x="1234" y="406" width="140" height="20" rx="10" fill="#EAF2FE"/><g style="color:#1A5FB4"><use href="#ic-check" x="1244" y="407" width="15" height="15"/></g><text x="1320" y="420" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">Registered</text>
+  </g>
+  <g font-size="12.5">
+  <rect x="884" y="468" width="508" height="64" rx="10" fill="#FAFBFD" stroke="#ECEFF4"/>
+  <text x="904" y="492" class="val">RR · Michelin Defender LTX</text><text x="904" y="512" class="mono mut" font-size="11">DOT B3 4C ABC 2624</text>
+  <rect x="1130" y="480" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="1176" y="494" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Recall clear</text>
+  <rect x="1234" y="480" width="140" height="20" rx="10" fill="#EAF2FE"/><g style="color:#1A5FB4"><use href="#ic-check" x="1244" y="481" width="15" height="15"/></g><text x="1320" y="494" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">Registered</text>
+  </g>
+  <line x1="884" y1="552" x2="1392" y2="552" stroke="#ECEFF4"/>
+  <rect x="884" y="568" width="508" height="60" rx="10" fill="#E6FBF5" stroke="#BDEBDD"/>
+  <g style="color:#0F9C96"><use href="#ic-check" x="904" y="586" width="20" height="20"/></g>
+  <text x="934" y="592" class="val" font-size="13">4 / 4 tires registered with Michelin</text>
+  <text x="934" y="612" class="mut" font-size="11">Electronic registration submitted · recall traceability satisfied</text>
+  <rect x="884" y="644" width="508" height="96" rx="10" fill="#F4F6FB"/>
+  <text x="904" y="670" class="lbl" font-size="10">WHY IT MATTERS</text>
+  <text x="904" y="692" class="mut" font-size="11.5">Tire registration is a manufacturer/NHTSA traceability requirement so the</text>
+  <text x="904" y="710" class="mut" font-size="11.5">customer is reachable in a recall. Squibbon validates the DOT, checks for an</text>
+  <text x="904" y="728" class="mut" font-size="11.5">active recall before fitment, and registers automatically at point of sale.</text>
+</svg>

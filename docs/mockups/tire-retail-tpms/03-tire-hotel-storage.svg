@@ -1,0 +1,119 @@
+<svg viewBox="0 0 1440 800" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Tire hotel / seasonal storage</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-box" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 2.6 l6.4 3.5 v7.8 l-6.4 3.5 -6.4-3.5 v-7.8z"/><path d="M3.6 6.1 L10 9.6 l6.4-3.5 M10 9.6 V17.4"/></g>
+    <g id="ic-building" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4.5" y="3.5" width="11" height="14" rx="1.2"/><path d="M7.5 7 h1 M11.5 7 h1 M7.5 10 h1 M11.5 10 h1"/><path d="M8.5 17.5 v-3 h3 v3"/></g>
+    <g id="ic-cart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4 h2.2 l1.8 8.4 h7.6 l1.6-5.8 H6.2"/><circle cx="8" cy="16" r="1.3"/><circle cx="14.5" cy="16" r="1.3"/></g>
+    <g id="ic-bill" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2.6 h10 v15 l-2-1.3 -2 1.3 -2-1.3 -2 1.3 -2-1.3z"/><path d="M7.4 7 h5.2 M7.4 10 h5.2 M7.4 13 h3.2"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+    <g id="ic-chart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 16.5 h14"/><rect x="4.5" y="9" width="2.6" height="5.5"/><rect x="8.7" y="6" width="2.6" height="8.5"/><rect x="12.9" y="11" width="2.6" height="3.5"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-pin" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M10 17 s5-4.5 5-9 a5 5 0 0 0-10 0 c0 4.5 5 9 5 9z"/><circle cx="10" cy="8" r="1.7"/></g>
+    <g id="ic-snow" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M10 2 v16 M3 6 l14 8 M17 6 L3 14 M10 2 l-2.5 2.5 M10 2 l2.5 2.5 M10 18 l-2.5-2.5 M10 18 l2.5-2.5"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.lbl{fill:#8A95A5;font-weight:600}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.val{fill:#2A3547;font-weight:600}.num{fill:#2A3547;font-weight:700}.pill{font-weight:600}
+  </style>
+  <rect width="1440" height="800" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="800" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="800" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <g style="color:#5A6A85"><use href="#ic-clip" x="22" y="172" width="18" height="18"/></g><text x="50" y="186" class="navi" font-size="12.5">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="206" width="18" height="18"/></g><text x="50" y="220" class="navi" font-size="12.5">Customers</text>
+  <g style="color:#5A6A85"><use href="#ic-truck" x="22" y="240" width="18" height="18"/></g><text x="50" y="254" class="navi" font-size="12.5">Vehicles</text>
+  <text x="24" y="292" class="col" font-size="11">PARTS &amp; VENDORS</text>
+  <rect x="12" y="302" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-box" x="22" y="307" width="18" height="18"/></g><text x="50" y="321" font-size="12.5" font-weight="600" fill="#c479c2">Inventory / parts</text>
+  <g style="color:#5A6A85"><use href="#ic-cart" x="22" y="344" width="18" height="18"/></g><text x="50" y="358" class="navi" font-size="12.5">Purchase orders</text>
+  <g style="color:#5A6A85"><use href="#ic-building" x="22" y="382" width="18" height="18"/></g><text x="50" y="396" class="navi" font-size="12.5">Vendors</text>
+  <text x="24" y="434" class="col" font-size="11">BILLING</text>
+  <g style="color:#5A6A85"><use href="#ic-bill" x="22" y="444" width="18" height="18"/></g><text x="50" y="458" class="navi" font-size="12.5">Invoices</text>
+  <g style="color:#5A6A85"><use href="#ic-card" x="22" y="482" width="18" height="18"/></g><text x="50" y="496" class="navi" font-size="12.5">Payments</text>
+  <g style="color:#5A6A85"><use href="#ic-chart" x="22" y="520" width="18" height="18"/></g><text x="50" y="534" class="navi" font-size="12.5">Reports</text>
+  <text x="24" y="572" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="582" width="18" height="18"/></g><text x="50" y="596" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search by customer, plate or bin…</text>
+  <rect x="1108" y="17" width="170" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-plus" x="1136" y="28" width="16" height="16"/></g><text x="1162" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">Check in a set</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">T. Hopper</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Advisor</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">TH</text>
+
+  <text x="280" y="116" font-size="22" font-weight="700" fill="#2A3547">Tire hotel</text>
+  <text x="280" y="138" font-size="13" fill="#5A6A85">Seasonal tire storage · bins, tread depths in/out, swap reminders &amp; recurring billing</text>
+
+  <!-- KPIs -->
+  <g font-size="12">
+  <rect x="280" y="158" width="270" height="80" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="298" y="186" class="lbl">Sets stored</text><text x="298" y="220" class="num" font-size="22">412</text>
+  <rect x="566" y="158" width="270" height="80" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="584" y="186" class="lbl">Capacity used</text><text x="584" y="220" class="num" font-size="22">78%</text><rect x="700" y="206" width="118" height="8" rx="4" fill="#EEF1F6"/><rect x="700" y="206" width="92" height="8" rx="4" fill="#16CDC7"/>
+  <rect x="852" y="158" width="270" height="80" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="870" y="186" class="lbl">Swaps due this season</text><text x="870" y="220" class="num" font-size="22" fill="#A8720F">96</text>
+  <rect x="1138" y="158" width="278" height="80" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="1156" y="186" class="lbl">Storage revenue / mo</text><text x="1156" y="220" class="num" font-size="22" fill="#0F9C96">$4,120</text>
+  </g>
+
+  <!-- stored sets table -->
+  <rect x="280" y="256" width="780" height="502" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="286" class="h" font-size="14">Stored sets</text>
+  <g font-size="11" font-weight="600"><rect x="900" y="270" width="68" height="24" rx="12" fill="#FFEBFE"/><text x="934" y="286" fill="#c479c2" text-anchor="middle">All</text><text x="990" y="286" fill="#5A6A85">Swap due</text></g>
+  <line x1="304" y1="302" x2="1036" y2="302" stroke="#ECEFF4"/>
+  <g class="col" font-size="10"><text x="304" y="324">CUSTOMER / VEHICLE</text><text x="600" y="324">SET</text><text x="730" y="324">BIN</text><text x="850" y="324">SEASON</text><text x="1036" y="324" text-anchor="end">STATUS</text></g>
+  <line x1="304" y1="332" x2="1036" y2="332" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <rect x="292" y="342" width="756" height="44" rx="8" fill="#FBF3FB"/>
+  <text x="304" y="362" class="val">Acme Fleet · F-150</text><text x="304" y="378" class="mut" font-size="10.5">ABCD 123</text><text x="600" y="368" class="cell">TS-3380</text><g style="color:#8A95A5"><use href="#ic-pin" x="728" y="358" width="14" height="14"/></g><text x="748" y="368" class="cell">R12-03</text><text x="850" y="368" class="cell">Winter</text><rect x="956" y="356" width="80" height="20" rx="10" fill="#E6FBF5"/><text x="996" y="370" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">In storage</text>
+  <text x="304" y="414" class="val">M. Delgado · CR-V</text><text x="600" y="414" class="cell">TS-3361</text><text x="748" y="414" class="cell">A4-11</text><text x="850" y="414" class="cell">Summer</text><rect x="956" y="402" width="80" height="20" rx="10" fill="#E6FBF5"/><text x="996" y="416" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">In storage</text>
+  <line x1="304" y1="432" x2="1036" y2="432" stroke="#F4F6FA"/>
+  <text x="304" y="458" class="val">R. Okafor · RAM 1500</text><text x="600" y="458" class="cell">TS-3402</text><text x="748" y="458" class="cell">R8-02</text><text x="850" y="458" class="cell">Winter</text><rect x="958" y="446" width="78" height="20" rx="10" fill="#FEF4E6"/><text x="997" y="460" class="pill" font-size="9.5" fill="#A8720F" text-anchor="middle">Swap due</text>
+  <line x1="304" y1="476" x2="1036" y2="476" stroke="#F4F6FA"/>
+  <text x="304" y="502" class="val">S. Tremblay · Camry</text><text x="600" y="502" class="cell">TS-3299</text><text x="748" y="502" class="cell">A2-07</text><text x="850" y="502" class="cell">Winter</text><rect x="956" y="490" width="80" height="20" rx="10" fill="#E6FBF5"/><text x="996" y="504" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">In storage</text>
+  <line x1="304" y1="520" x2="1036" y2="520" stroke="#F4F6FA"/>
+  <text x="304" y="546" class="val">L. Romano · Outback</text><text x="600" y="546" class="cell">TS-3188</text><text x="748" y="546" class="cell">A6-09</text><text x="850" y="546" class="cell">Winter</text><rect x="958" y="534" width="78" height="20" rx="10" fill="#FEF4E6"/><text x="997" y="548" class="pill" font-size="9.5" fill="#A8720F" text-anchor="middle">Swap due</text>
+  <line x1="304" y1="564" x2="1036" y2="564" stroke="#F4F6FA"/>
+  <text x="304" y="590" class="val" fill="#8A95A5">D. Park · Sierra</text><text x="600" y="590" class="cell" fill="#8A95A5">TS-3120</text><text x="748" y="590" class="cell" fill="#8A95A5">R3-14</text><text x="850" y="590" class="cell" fill="#8A95A5">Summer</text><rect x="966" y="578" width="70" height="20" rx="10" fill="#EEF1F6"/><text x="1001" y="592" class="pill" font-size="9.5" fill="#5A6A85" text-anchor="middle">Out</text>
+  </g>
+  <line x1="304" y1="610" x2="1036" y2="610" stroke="#ECEFF4"/>
+  <g style="color:#1A5FB4"><use href="#ic-snow" x="304" y="628" width="18" height="18"/></g>
+  <text x="330" y="641" class="cell" font-size="12">Quebec winter-tire window: Dec 1 – Mar 15 — swap-in reminders auto-sent in October.</text>
+  <rect x="304" y="664" width="732" height="74" rx="10" fill="#F4F6FB"/>
+  <text x="324" y="690" class="lbl" font-size="10">SEASONAL CAMPAIGN</text>
+  <text x="324" y="712" class="mut" font-size="11.5">96 stored-set customers are due to swap. A reminder + online booking link goes out</text>
+  <text x="324" y="730" class="mut" font-size="11.5">from Service reminders — storage renewals bill automatically on the saved card.</text>
+
+  <!-- set detail -->
+  <rect x="1080" y="256" width="336" height="502" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="1104" y="286" class="h" font-size="14">Set TS-3380</text><rect x="1330" y="270" width="66" height="22" rx="11" fill="#E6FBF5"/><text x="1363" y="285" class="pill" font-size="10" fill="#0F9C96" text-anchor="middle">Stored</text>
+  <text x="1104" y="306" class="mut" font-size="11">Acme Fleet · 2019 F-150 · winter</text>
+  <line x1="1104" y1="318" x2="1392" y2="318" stroke="#ECEFF4"/>
+  <text x="1104" y="342" class="lbl" font-size="10">LOCATION</text><g style="color:#c479c2"><use href="#ic-pin" x="1180" y="330" width="14" height="14"/></g><text x="1200" y="342" class="val" font-size="13">Rack R12 · Bin 03</text>
+  <text x="1104" y="368" class="lbl" font-size="10">TIRES</text><text x="1104" y="386" class="cell" font-size="12">4× Michelin X-Ice · 265/70R17</text>
+  <text x="1104" y="412" class="lbl" font-size="10">TREAD AT CHECK-IN (mm)</text>
+  <g font-size="12.5">
+  <rect x="1104" y="422" width="66" height="44" rx="8" fill="#F4F6FB"/><text x="1137" y="440" class="mut" font-size="9.5" text-anchor="middle">LF</text><text x="1137" y="458" class="val" text-anchor="middle">8.0</text>
+  <rect x="1178" y="422" width="66" height="44" rx="8" fill="#F4F6FB"/><text x="1211" y="440" class="mut" font-size="9.5" text-anchor="middle">RF</text><text x="1211" y="458" class="val" text-anchor="middle">8.0</text>
+  <rect x="1252" y="422" width="66" height="44" rx="8" fill="#FEF4E6"/><text x="1285" y="440" class="mut" font-size="9.5" text-anchor="middle">LR</text><text x="1285" y="458" class="val" text-anchor="middle">7.0</text>
+  <rect x="1326" y="422" width="66" height="44" rx="8" fill="#F4F6FB"/><text x="1359" y="440" class="mut" font-size="9.5" text-anchor="middle">RR</text><text x="1359" y="458" class="val" text-anchor="middle">8.0</text>
+  </g>
+  <text x="1104" y="492" class="lbl" font-size="10">CHECK-IN PHOTOS</text>
+  <rect x="1104" y="502" width="90" height="58" rx="8" fill="#F4F6FB"/><rect x="1202" y="502" width="90" height="58" rx="8" fill="#F4F6FB"/><rect x="1300" y="502" width="92" height="58" rx="8" fill="#F4F6FB"/>
+  <line x1="1104" y1="580" x2="1392" y2="580" stroke="#ECEFF4"/>
+  <text x="1104" y="604" class="lbl" font-size="10">STORAGE PLAN</text>
+  <g font-size="12.5"><text x="1104" y="626" class="cell">$90 / season</text><rect x="1300" y="614" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="1346" y="628" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Paid</text>
+  <text x="1104" y="650" class="mut" font-size="11">Renews 15 Apr 2026 · card on file</text></g>
+  <rect x="1104" y="668" width="288" height="44" rx="9" fill="#c479c2"/><text x="1248" y="695" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">Schedule swap-back</text>
+  <text x="1104" y="734" class="mut" font-size="10.5">Swap-back creates a work order &amp; frees the bin.</text>
+</svg>
