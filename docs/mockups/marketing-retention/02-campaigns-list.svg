@@ -1,0 +1,79 @@
+<svg viewBox="0 0 1440 760" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Campaigns</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-mega" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M4.5 8 L14 4.5 v11 L4.5 12 z"/><path d="M4.5 8 H3 a1.2 1.2 0 0 0-1.2 1.2 v1.6 A1.2 1.2 0 0 0 3 12 h1.5"/><path d="M6.5 12.4 v2 a1.6 1.6 0 0 0 3.1 .4"/></g>
+    <g id="ic-send" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M17.5 2.5 L8.8 11.2 M17.5 2.5 l-6.2 14.5 -2.6-5.7 L3 8.7 z"/></g>
+    <g id="ic-users" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="7" r="2.8"/><path d="M2.5 16 a5 5 0 0 1 10 0"/><path d="M13 4.6 a2.8 2.8 0 0 1 0 5.4"/><path d="M14.5 16 a5 5 0 0 0-2.2-4.1"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-back" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M8 4.5 L3.5 9 L8 13.5"/><path d="M3.5 9 H12 a5 5 0 0 1 5 5 v1"/></g>
+    <g id="ic-bolt" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M11 2 L4.5 11 H9 l-1 7 6.5-9 H10 l1-7z"/></g>
+    <g id="ic-file" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 2.8 h5 l4 4 v10.4 a1 1 0 0 1-1 1 H6 a1 1 0 0 1-1-1 V3.8 a1 1 0 0 1 1-1z"/><path d="M11 2.8 v4 h4"/></g>
+    <g id="ic-star" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M10 2.5 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 -4.6-2.4 -4.6 2.4 .9-5.2 -3.8-3.7 5.2-.8z"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-dots" fill="#8A95A5" stroke="none"><circle cx="10" cy="4.5" r="1.3"/><circle cx="10" cy="10" r="1.3"/><circle cx="10" cy="15.5" r="1.3"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.sub{fill:#5A6A85;font-weight:400}.lbl{fill:#5A6A85;font-weight:500}
+    .num{fill:#2A3547;font-weight:700}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.pill{font-weight:600}
+  </style>
+  <rect width="1440" height="760" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="760" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="760" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="88" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="132" width="18" height="18"/></g><text x="50" y="146" class="navi" font-size="12.5">Workflow</text>
+  <g style="color:#5A6A85"><use href="#ic-clip" x="22" y="164" width="18" height="18"/></g><text x="50" y="178" class="navi" font-size="12.5">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="196" width="18" height="18"/></g><text x="50" y="210" class="navi" font-size="12.5">Customers</text>
+  <text x="24" y="228" class="col" font-size="11">GROW</text>
+  <g style="color:#5A6A85"><use href="#ic-mega" x="22" y="240" width="18" height="18"/></g><text x="50" y="254" class="navi" font-size="12.5">Marketing</text>
+  <rect x="12" y="268" width="232" height="26" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-send" x="22" y="272" width="18" height="18"/></g><text x="50" y="286" font-size="12.5" font-weight="600" fill="#c479c2">Campaigns</text>
+  <g style="color:#5A6A85"><use href="#ic-users" x="22" y="304" width="18" height="18"/></g><text x="50" y="318" class="navi" font-size="12.5">Audiences</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="22" y="336" width="18" height="18"/></g><text x="50" y="350" class="navi" font-size="12.5">Service reminders</text>
+  <g style="color:#5A6A85"><use href="#ic-back" x="22" y="368" width="18" height="18"/></g><text x="50" y="382" class="navi" font-size="12.5">Declined follow-up</text>
+  <g style="color:#5A6A85"><use href="#ic-bolt" x="22" y="400" width="18" height="18"/></g><text x="50" y="414" class="navi" font-size="12.5">Automations</text>
+  <g style="color:#5A6A85"><use href="#ic-file" x="22" y="432" width="18" height="18"/></g><text x="50" y="446" class="navi" font-size="12.5">Templates</text>
+  <g style="color:#5A6A85"><use href="#ic-star" x="22" y="464" width="18" height="18"/></g><text x="50" y="478" class="navi" font-size="12.5">Reviews</text>
+  <text x="24" y="506" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="518" width="18" height="18"/></g><text x="50" y="532" class="navi" font-size="12.5">Marketing settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search campaigns…</text>
+  <rect x="1108" y="17" width="170" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-plus" x="1132" y="28" width="16" height="16"/></g><text x="1156" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">New campaign</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">T. Hopper</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Marketing</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">TH</text>
+
+  <text x="280" y="118" font-size="22" font-weight="700" fill="#2A3547">Campaigns</text>
+  <text x="280" y="140" font-size="13" fill="#5A6A85">Email &amp; SMS · consented recipients only (CASL)</text>
+
+  <text x="288" y="180" font-size="13" font-weight="600" fill="#c479c2">All</text><rect x="284" y="189" width="26" height="3" rx="1.5" fill="#c479c2"/>
+  <text x="338" y="180" class="navi" font-size="12.5">Email</text><text x="404" y="180" class="navi" font-size="12.5">SMS</text><text x="460" y="180" class="navi" font-size="12.5">Scheduled</text><text x="560" y="180" class="navi" font-size="12.5">Drafts</text>
+  <line x1="280" y1="196" x2="1416" y2="196" stroke="#ECEFF4"/>
+
+  <rect x="280" y="212" width="1136" height="524" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <g class="col" font-size="10.5"><text x="304" y="244">CAMPAIGN</text><text x="560" y="244">CHANNEL</text><text x="660" y="244">AUDIENCE</text><text x="920" y="244">SENT</text><text x="1010" y="244">OPEN</text><text x="1100" y="244">CLICK</text><text x="1200" y="244">BOOKED</text><text x="1392" y="244" text-anchor="end">STATUS</text></g>
+  <line x1="304" y1="254" x2="1392" y2="254" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <text x="304" y="282" class="cell">Winter-tire swap reminder</text><text x="560" y="282" class="sub">SMS</text><text x="660" y="282" class="sub">Winter-tire (412)</text><text x="920" y="282" class="sub">412</text><text x="1010" y="282" class="sub">—</text><text x="1100" y="282" class="sub">—</text><text x="1200" y="282" class="sub">38</text><rect x="1326" y="269" width="66" height="19" rx="9.5" fill="#E6FBF5"/><text x="1359" y="282" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Sent</text><line x1="304" y1="300" x2="1392" y2="300" stroke="#F4F6FA"/>
+  <text x="304" y="328" class="cell">Spring service promo</text><text x="560" y="328" class="sub">Email</text><text x="660" y="328" class="sub">Lapsed 6 mo (318)</text><text x="920" y="328" class="sub">318</text><text x="1010" y="328" class="sub">41%</text><text x="1100" y="328" class="sub">12%</text><text x="1200" y="328" class="sub">22</text><rect x="1326" y="315" width="66" height="19" rx="9.5" fill="#E6FBF5"/><text x="1359" y="328" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Sent</text><line x1="304" y1="346" x2="1392" y2="346" stroke="#F4F6FA"/>
+  <text x="304" y="374" class="cell">Declined brakes follow-up</text><text x="560" y="374" class="sub">Email</text><text x="660" y="374" class="sub">Declined brakes (54)</text><text x="920" y="374" class="sub">54</text><text x="1010" y="374" class="sub">48%</text><text x="1100" y="374" class="sub">19%</text><text x="1200" y="374" class="sub">9</text><rect x="1326" y="361" width="66" height="19" rx="9.5" fill="#E6FBF5"/><text x="1359" y="374" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Sent</text><line x1="304" y1="392" x2="1392" y2="392" stroke="#F4F6FA"/>
+  <text x="304" y="420" class="cell">Oil change due — June</text><text x="560" y="420" class="sub">SMS</text><text x="660" y="420" class="sub">Due this month (210)</text><text x="920" y="420" class="sub">—</text><text x="1010" y="420" class="sub">—</text><text x="1100" y="420" class="sub">—</text><text x="1200" y="420" class="sub">—</text><rect x="1314" y="407" width="78" height="19" rx="9.5" fill="#EAF2FE"/><text x="1353" y="420" class="pill" font-size="10.5" fill="#1A5FB4" text-anchor="middle">Scheduled</text><line x1="304" y1="438" x2="1392" y2="438" stroke="#F4F6FA"/>
+  <text x="304" y="466" class="cell">Summer A/C check</text><text x="560" y="466" class="sub">Email</text><text x="660" y="466" class="sub">All consented (1,840)</text><text x="920" y="466" class="sub">—</text><text x="1010" y="466" class="sub">—</text><text x="1100" y="466" class="sub">—</text><text x="1200" y="466" class="sub">—</text><rect x="1334" y="453" width="58" height="19" rx="9.5" fill="#EEF1F6"/><text x="1363" y="466" class="pill" font-size="10.5" fill="#5A6A85" text-anchor="middle">Draft</text><line x1="304" y1="484" x2="1392" y2="484" stroke="#F4F6FA"/>
+  <text x="304" y="512" class="cell">Review request</text><text x="560" y="512" class="sub">SMS</text><text x="660" y="512" class="sub">via automation</text><text x="920" y="512" class="sub">142</text><text x="1010" y="512" class="sub">—</text><text x="1100" y="512" class="sub">—</text><text x="1200" y="512" class="sub">—</text><rect x="1322" y="499" width="70" height="19" rx="9.5" fill="#FFEBFE"/><text x="1357" y="512" class="pill" font-size="10.5" fill="#c479c2" text-anchor="middle">Running</text><line x1="304" y1="530" x2="1392" y2="530" stroke="#F4F6FA"/>
+  <text x="304" y="558" class="cell">Win-back — 12 months</text><text x="560" y="558" class="sub">Email</text><text x="660" y="558" class="sub">Lapsed 12 mo (96)</text><text x="920" y="558" class="sub">96</text><text x="1010" y="558" class="sub">33%</text><text x="1100" y="558" class="sub">8%</text><text x="1200" y="558" class="sub">5</text><rect x="1326" y="545" width="66" height="19" rx="9.5" fill="#E6FBF5"/><text x="1359" y="558" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Sent</text>
+  </g>
+  <line x1="304" y1="690" x2="1392" y2="690" stroke="#ECEFF4"/>
+  <text x="304" y="718" class="mut" font-size="12">7 campaigns · non-consented &amp; unsubscribed contacts are auto-excluded</text>
+</svg>

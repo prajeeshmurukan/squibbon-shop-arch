@@ -1,0 +1,114 @@
+<svg viewBox="0 0 1440 760" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Reputation &amp; reviews</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-mega" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M4.5 8 L14 4.5 v11 L4.5 12 z"/><path d="M4.5 8 H3 a1.2 1.2 0 0 0-1.2 1.2 v1.6 A1.2 1.2 0 0 0 3 12 h1.5"/><path d="M6.5 12.4 v2 a1.6 1.6 0 0 0 3.1 .4"/></g>
+    <g id="ic-send" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M17.5 2.5 L8.8 11.2 M17.5 2.5 l-6.2 14.5 -2.6-5.7 L3 8.7 z"/></g>
+    <g id="ic-users" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="7" r="2.8"/><path d="M2.5 16 a5 5 0 0 1 10 0"/><path d="M13 4.6 a2.8 2.8 0 0 1 0 5.4"/><path d="M14.5 16 a5 5 0 0 0-2.2-4.1"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-back" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M8 4.5 L3.5 9 L8 13.5"/><path d="M3.5 9 H12 a5 5 0 0 1 5 5 v1"/></g>
+    <g id="ic-bolt" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M11 2 L4.5 11 H9 l-1 7 6.5-9 H10 l1-7z"/></g>
+    <g id="ic-file" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 2.8 h5 l4 4 v10.4 a1 1 0 0 1-1 1 H6 a1 1 0 0 1-1-1 V3.8 a1 1 0 0 1 1-1z"/><path d="M11 2.8 v4 h4"/></g>
+    <g id="ic-star" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M10 2.5 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 -4.6-2.4 -4.6 2.4 .9-5.2 -3.8-3.7 5.2-.8z"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-send2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M17.5 2.5 L8.8 11.2 M17.5 2.5 l-6.2 14.5 -2.6-5.7 L3 8.7 z"/></g>
+    <symbol id="star5" viewBox="0 0 100 18"><g fill="#F5A623"><path d="M9 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L9 12.9 4.3 15.4 5.2 10.2 1.4 6.5 6.6 5.7z"/><path d="M29 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L29 12.9 24.3 15.4 25.2 10.2 21.4 6.5 26.6 5.7z"/><path d="M49 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L49 12.9 44.3 15.4 45.2 10.2 41.4 6.5 46.6 5.7z"/><path d="M69 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L69 12.9 64.3 15.4 65.2 10.2 61.4 6.5 66.6 5.7z"/><path d="M89 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L89 12.9 84.3 15.4 85.2 10.2 81.4 6.5 86.6 5.7z"/></g></symbol>
+    <symbol id="star4" viewBox="0 0 100 18"><g fill="#F5A623"><path d="M9 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L9 12.9 4.3 15.4 5.2 10.2 1.4 6.5 6.6 5.7z"/><path d="M29 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L29 12.9 24.3 15.4 25.2 10.2 21.4 6.5 26.6 5.7z"/><path d="M49 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L49 12.9 44.3 15.4 45.2 10.2 41.4 6.5 46.6 5.7z"/><path d="M69 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L69 12.9 64.3 15.4 65.2 10.2 61.4 6.5 66.6 5.7z"/></g><path d="M89 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L89 12.9 84.3 15.4 85.2 10.2 81.4 6.5 86.6 5.7z" fill="#DDE3EC"/></symbol>
+    <symbol id="star2" viewBox="0 0 100 18"><g fill="#F5A623"><path d="M9 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L9 12.9 4.3 15.4 5.2 10.2 1.4 6.5 6.6 5.7z"/><path d="M29 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L29 12.9 24.3 15.4 25.2 10.2 21.4 6.5 26.6 5.7z"/></g><g fill="#DDE3EC"><path d="M49 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L49 12.9 44.3 15.4 45.2 10.2 41.4 6.5 46.6 5.7z"/><path d="M69 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L69 12.9 64.3 15.4 65.2 10.2 61.4 6.5 66.6 5.7z"/><path d="M89 1 l2.3 4.7 5.2 .8 -3.8 3.7 .9 5.2 L89 12.9 84.3 15.4 85.2 10.2 81.4 6.5 86.6 5.7z"/></g></symbol>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.lbl{fill:#5A6A85;font-weight:500}.num{fill:#2A3547;font-weight:700}.rt{fill:#3A4456;font-weight:400}
+  </style>
+  <rect width="1440" height="760" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="760" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="760" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="88" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="132" width="18" height="18"/></g><text x="50" y="146" class="navi" font-size="12.5">Workflow</text>
+  <g style="color:#5A6A85"><use href="#ic-clip" x="22" y="164" width="18" height="18"/></g><text x="50" y="178" class="navi" font-size="12.5">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="196" width="18" height="18"/></g><text x="50" y="210" class="navi" font-size="12.5">Customers</text>
+  <text x="24" y="228" class="col" font-size="11">GROW</text>
+  <g style="color:#5A6A85"><use href="#ic-mega" x="22" y="240" width="18" height="18"/></g><text x="50" y="254" class="navi" font-size="12.5">Marketing</text>
+  <g style="color:#5A6A85"><use href="#ic-send" x="22" y="272" width="18" height="18"/></g><text x="50" y="286" class="navi" font-size="12.5">Campaigns</text>
+  <g style="color:#5A6A85"><use href="#ic-users" x="22" y="304" width="18" height="18"/></g><text x="50" y="318" class="navi" font-size="12.5">Audiences</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="22" y="336" width="18" height="18"/></g><text x="50" y="350" class="navi" font-size="12.5">Service reminders</text>
+  <g style="color:#5A6A85"><use href="#ic-back" x="22" y="368" width="18" height="18"/></g><text x="50" y="382" class="navi" font-size="12.5">Declined follow-up</text>
+  <g style="color:#5A6A85"><use href="#ic-bolt" x="22" y="400" width="18" height="18"/></g><text x="50" y="414" class="navi" font-size="12.5">Automations</text>
+  <g style="color:#5A6A85"><use href="#ic-file" x="22" y="432" width="18" height="18"/></g><text x="50" y="446" class="navi" font-size="12.5">Templates</text>
+  <rect x="12" y="460" width="232" height="26" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-star" x="22" y="464" width="18" height="18"/></g><text x="50" y="478" font-size="12.5" font-weight="600" fill="#c479c2">Reviews</text>
+  <text x="24" y="506" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="518" width="18" height="18"/></g><text x="50" y="532" class="navi" font-size="12.5">Marketing settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search…</text>
+  <rect x="1098" y="17" width="180" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-send2" x="1124" y="28" width="16" height="16"/></g><text x="1148" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">Request reviews</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">T. Hopper</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Marketing</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">TH</text>
+
+  <text x="280" y="118" font-size="22" font-weight="700" fill="#2A3547">Reputation</text>
+  <text x="280" y="140" font-size="13" fill="#5A6A85">Reviews across Google, Facebook &amp; in-shop surveys · respond and track in one place</text>
+
+  <g font-size="12">
+  <rect x="280" y="158" width="270" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="298" y="188" class="lbl">Average rating</text><text x="298" y="222" class="num" font-size="24">4.7</text><use href="#star5" x="346" y="200" width="92" height="16.5"/><text x="298" y="240" font-size="10.5" font-weight="600" fill="#0F9C96">▲ 0.2 vs last year</text>
+  <rect x="566" y="158" width="270" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="584" y="188" class="lbl">Total reviews</text><text x="584" y="222" class="num" font-size="24">142</text><text x="584" y="240" font-size="10.5" font-weight="600" fill="#0F9C96">+18 this month</text>
+  <rect x="852" y="158" width="270" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="870" y="188" class="lbl">Response rate</text><text x="870" y="222" class="num" font-size="24">92%</text><text x="870" y="240" font-size="10.5" font-weight="600" fill="#A8720F">2 awaiting reply</text>
+  <rect x="1138" y="158" width="278" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="1156" y="188" class="lbl">Requests sent (30d)</text><text x="1156" y="222" class="num" font-size="24">210</text><text x="1156" y="240" font-size="10.5" font-weight="600" fill="#5A6A85">38% conversion to review</text>
+  </g>
+
+  <!-- left: breakdown + sources -->
+  <rect x="280" y="262" width="420" height="458" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="294" class="h" font-size="15">Rating breakdown</text>
+  <g>
+  <text x="304" y="338" class="cell" font-size="11.5">5★</text><rect x="334" y="328" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="334" y="328" width="228" height="12" rx="6" fill="#F5A623"/><text x="676" y="338" class="mut" font-size="11.5" text-anchor="end">108</text>
+  <text x="304" y="368" class="cell" font-size="11.5">4★</text><rect x="334" y="358" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="334" y="358" width="60" height="12" rx="6" fill="#F5A623"/><text x="676" y="368" class="mut" font-size="11.5" text-anchor="end">22</text>
+  <text x="304" y="398" class="cell" font-size="11.5">3★</text><rect x="334" y="388" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="334" y="388" width="20" height="12" rx="6" fill="#F5A623"/><text x="676" y="398" class="mut" font-size="11.5" text-anchor="end">7</text>
+  <text x="304" y="428" class="cell" font-size="11.5">2★</text><rect x="334" y="418" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="334" y="418" width="10" height="12" rx="6" fill="#E0793B"/><text x="676" y="428" class="mut" font-size="11.5" text-anchor="end">3</text>
+  <text x="304" y="458" class="cell" font-size="11.5">1★</text><rect x="334" y="448" width="300" height="12" rx="6" fill="#F0F2F6"/><rect x="334" y="448" width="7" height="12" rx="6" fill="#C0392B"/><text x="676" y="458" class="mut" font-size="11.5" text-anchor="end">2</text>
+  </g>
+  <line x1="304" y1="492" x2="676" y2="492" stroke="#ECEFF4"/>
+  <text x="304" y="522" class="h" font-size="14">Sources</text>
+  <g font-size="12.5">
+  <circle cx="316" cy="552" r="10" fill="#EAF2FE"/><text x="316" y="556" font-size="11" font-weight="700" fill="#1A73E8" text-anchor="middle">G</text><text x="340" y="550" class="cell">Google</text><use href="#star5" x="406" y="544" width="74" height="13"/><text x="500" y="550" class="mut" font-size="11">4.8 · 96 reviews</text><text x="676" y="550" font-size="11.5" font-weight="600" fill="#1A5FB4" text-anchor="end">Connected</text>
+  <circle cx="316" cy="588" r="10" fill="#EAF0FB"/><text x="316" y="592" font-size="11" font-weight="700" fill="#1877F2" text-anchor="middle">f</text><text x="340" y="586" class="cell">Facebook</text><use href="#star5" x="406" y="580" width="74" height="13"/><text x="500" y="586" class="mut" font-size="11">4.6 · 28 reviews</text><text x="676" y="586" font-size="11.5" font-weight="600" fill="#1A5FB4" text-anchor="end">Connected</text>
+  <circle cx="316" cy="624" r="10" fill="#FFEBFE"/><g style="color:#c479c2"><use href="#ic-star" x="308" y="616" width="16" height="16"/></g><text x="340" y="622" class="cell">In-shop survey</text><use href="#star5" x="406" y="616" width="74" height="13"/><text x="500" y="622" class="mut" font-size="11">4.7 · 18 responses</text><text x="676" y="622" font-size="11.5" font-weight="600" fill="#8A95A5" text-anchor="end">Internal</text>
+  </g>
+  <rect x="304" y="654" width="372" height="48" rx="9" fill="#F4F6FB"/><text x="324" y="674" class="cell" font-size="11.5">Review requests go out only to consented customers</text><text x="324" y="690" class="mut" font-size="10.5">No incentives · no gating of public review text (FTC / Competition Act safe)</text>
+
+  <!-- right: feed -->
+  <rect x="724" y="262" width="692" height="458" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="748" y="294" class="h" font-size="15">Recent reviews</text>
+  <g font-size="11.5" font-weight="600"><rect x="1010" y="278" width="44" height="24" rx="12" fill="#c479c2"/><text x="1032" y="294" fill="#fff" text-anchor="middle">All</text><rect x="1062" y="278" width="96" height="24" rx="12" fill="#FBEFD3"/><text x="1110" y="294" fill="#A8720F" text-anchor="middle">Needs reply · 2</text><rect x="1166" y="278" width="74" height="24" rx="12" fill="#F4F6FB"/><text x="1203" y="294" fill="#5A6A85" text-anchor="middle">Google</text><rect x="1248" y="278" width="88" height="24" rx="12" fill="#F4F6FB"/><text x="1292" y="294" fill="#5A6A85" text-anchor="middle">Facebook</text></g>
+  <line x1="748" y1="314" x2="1392" y2="314" stroke="#ECEFF4"/>
+
+  <!-- review 1 replied -->
+  <circle cx="766" cy="346" r="16" fill="#FDECEC"/><text x="766" y="351" font-size="12" font-weight="700" fill="#C0392B" text-anchor="middle">MD</text>
+  <text x="792" y="342" class="cell" font-size="13" font-weight="600">Maria Delgado</text><use href="#star5" x="792" y="350" width="74" height="13"/><rect x="892" y="334" width="58" height="18" rx="9" fill="#EAF2FE"/><text x="921" y="347" font-size="9.5" font-weight="700" fill="#1A73E8" text-anchor="middle">Google</text><text x="1392" y="342" class="mut" font-size="11" text-anchor="end">2 days ago</text>
+  <text x="792" y="380" class="rt" font-size="12">"Honest, fast, and explained everything. The sublet glass work was seamless — didn't even feel like two shops."</text>
+  <rect x="792" y="392" width="600" height="0" /><text x="792" y="406" font-size="11" font-weight="600" fill="#0F9C96">✓ Replied by T. Hopper</text><text x="900" y="406" class="mut" font-size="11">"Thanks Maria — see you next service!"</text>
+  <line x1="748" y1="426" x2="1392" y2="426" stroke="#F4F6FA"/>
+
+  <!-- review 2 needs reply with box -->
+  <circle cx="766" cy="458" r="16" fill="#EAF2FE"/><text x="766" y="463" font-size="12" font-weight="700" fill="#1A5FB4" text-anchor="middle">RO</text>
+  <text x="792" y="454" class="cell" font-size="13" font-weight="600">Ray Okafor</text><use href="#star4" x="792" y="462" width="74" height="13"/><rect x="892" y="446" width="58" height="18" rx="9" fill="#EAF2FE"/><text x="921" y="459" font-size="9.5" font-weight="700" fill="#1A73E8" text-anchor="middle">Google</text><rect x="958" y="446" width="86" height="18" rx="9" fill="#FBEFD3"/><text x="1001" y="459" font-size="9.5" font-weight="700" fill="#A8720F" text-anchor="middle">Needs reply</text><text x="1392" y="454" class="mut" font-size="11" text-anchor="end">4 days ago</text>
+  <text x="792" y="492" class="rt" font-size="12">"Good work on the brakes but I waited a little longer than quoted. Still, fair price."</text>
+  <rect x="792" y="506" width="600" height="62" rx="9" fill="#FAFBFD" stroke="#E2E8F0"/><text x="808" y="528" class="cell" font-size="12">Thanks for the honest feedback, Ray — you're right about the wait,</text><text x="808" y="546" class="cell" font-size="12">we've added a bay to keep things moving. Hope to earn the 5th star next time!</text>
+  <rect x="1270" y="576" width="122" height="32" rx="8" fill="#c479c2"/><g style="color:#fff"><use href="#ic-send2" x="1288" y="584" width="15" height="15"/></g><text x="1312" y="597" font-size="11.5" font-weight="600" fill="#fff">Post reply</text>
+  <rect x="792" y="576" width="120" height="32" rx="8" fill="#F4F6FB"/><text x="852" y="597" font-size="11.5" font-weight="600" fill="#5A6A85" text-anchor="middle">AI suggest</text>
+  <line x1="748" y1="628" x2="1392" y2="628" stroke="#F4F6FA"/>
+
+  <!-- review 3 -->
+  <circle cx="766" cy="660" r="16" fill="#FFF1E6"/><text x="766" y="665" font-size="12" font-weight="700" fill="#D9822B" text-anchor="middle">DP</text>
+  <text x="792" y="656" class="cell" font-size="13" font-weight="600">Dan Park</text><use href="#star5" x="792" y="664" width="74" height="13"/><rect x="892" y="648" width="66" height="18" rx="9" fill="#EAF0FB"/><text x="925" y="661" font-size="9.5" font-weight="700" fill="#1877F2" text-anchor="middle">Facebook</text><text x="1392" y="656" class="mut" font-size="11" text-anchor="end">1 week ago</text>
+  <text x="792" y="694" class="rt" font-size="12">"Best shop in Mississauga. Booked online, got reminders, painless." </text><text x="1180" y="694" font-size="11" font-weight="600" fill="#0F9C96">✓ Replied</text>
+</svg>
