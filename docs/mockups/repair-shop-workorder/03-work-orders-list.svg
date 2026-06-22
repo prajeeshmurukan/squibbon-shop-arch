@@ -1,0 +1,93 @@
+<svg viewBox="0 0 1440 912" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Work orders list</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-box" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 2.6 l6.4 3.5 v7.8 l-6.4 3.5 -6.4-3.5 v-7.8z"/><path d="M3.6 6.1 L10 9.6 l6.4-3.5 M10 9.6 V17.4"/></g>
+    <g id="ic-cart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4 h2.2 l1.8 8.4 h7.6 l1.6-5.8 H6.2"/><circle cx="8" cy="16" r="1.3"/><circle cx="14.5" cy="16" r="1.3"/></g>
+    <g id="ic-building" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4.5" y="3.5" width="11" height="14" rx="1.2"/><path d="M7.5 7 h1 M11.5 7 h1 M7.5 10 h1 M11.5 10 h1"/><path d="M8.5 17.5 v-3 h3 v3"/></g>
+    <g id="ic-bill" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2.6 h10 v15 l-2-1.3 -2 1.3 -2-1.3 -2 1.3 -2-1.3z"/><path d="M7.4 7 h5.2 M7.4 10 h5.2 M7.4 13 h3.2"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+    <g id="ic-chart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 16.5 h14"/><rect x="4.5" y="9" width="2.6" height="5.5"/><rect x="8.7" y="6" width="2.6" height="8.5"/><rect x="12.9" y="11" width="2.6" height="3.5"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-chevd" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 8 L10 12.5 L14.5 8"/></g>
+    <g id="ic-download" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M10 4 V13 M6.5 9.5 L10 13 l3.5-3.5"/><path d="M4.5 15.5 h11"/></g>
+    <g id="ic-dots" fill="#8A95A5" stroke="none"><circle cx="10" cy="4.5" r="1.3"/><circle cx="10" cy="10" r="1.3"/><circle cx="10" cy="15.5" r="1.3"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.sub{fill:#5A6A85;font-weight:400}.lbl{fill:#5A6A85;font-weight:500}
+    .num{fill:#2A3547;font-weight:700}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.pill{font-weight:600}
+  </style>
+  <rect width="1440" height="912" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="912" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="912" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <rect x="12" y="172" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-clip" x="22" y="177" width="18" height="18"/></g><text x="50" y="191" font-size="12.5" font-weight="600" fill="#c479c2">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="214" width="18" height="18"/></g><text x="50" y="228" class="navi" font-size="12.5">Customers</text>
+  <g style="color:#5A6A85"><use href="#ic-truck" x="22" y="252" width="18" height="18"/></g><text x="50" y="266" class="navi" font-size="12.5">Vehicles</text>
+  <text x="24" y="304" class="col" font-size="11">PARTS &amp; VENDORS</text>
+  <g style="color:#5A6A85"><use href="#ic-box" x="22" y="314" width="18" height="18"/></g><text x="50" y="328" class="navi" font-size="12.5">Inventory / parts</text>
+  <g style="color:#5A6A85"><use href="#ic-cart" x="22" y="352" width="18" height="18"/></g><text x="50" y="366" class="navi" font-size="12.5">Purchase orders</text>
+  <g style="color:#5A6A85"><use href="#ic-building" x="22" y="390" width="18" height="18"/></g><text x="50" y="404" class="navi" font-size="12.5">Vendors</text>
+  <text x="24" y="442" class="col" font-size="11">BILLING</text>
+  <g style="color:#5A6A85"><use href="#ic-bill" x="22" y="452" width="18" height="18"/></g><text x="50" y="466" class="navi" font-size="12.5">Invoices</text>
+  <g style="color:#5A6A85"><use href="#ic-card" x="22" y="490" width="18" height="18"/></g><text x="50" y="504" class="navi" font-size="12.5">Payments</text>
+  <g style="color:#5A6A85"><use href="#ic-chart" x="22" y="528" width="18" height="18"/></g><text x="50" y="542" class="navi" font-size="12.5">Reports</text>
+  <text x="24" y="580" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="590" width="18" height="18"/></g><text x="50" y="604" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search WO, customer, plate or VIN…</text>
+  <rect x="1108" y="17" width="170" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-plus" x="1126" y="28" width="16" height="16"/></g><text x="1150" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">New work order</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">T. Hopper</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Advisor</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">TH</text>
+
+  <text x="280" y="118" font-size="22" font-weight="700" fill="#2A3547">Work orders</text>
+  <text x="280" y="140" font-size="13" fill="#5A6A85">All estimates, repair orders &amp; invoices</text>
+
+  <g font-size="12">
+  <rect x="280" y="158" width="180" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="298" y="188" class="lbl">Open orders</text><text x="298" y="222" class="num" font-size="24">42</text><text x="298" y="242" font-size="11" font-weight="600" fill="#5A6A85">$78.4k value</text>
+  <rect x="476" y="158" width="180" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="494" y="188" class="lbl">In progress</text><text x="494" y="222" class="num" font-size="24">8</text><text x="494" y="242" font-size="11" font-weight="600" fill="#A8720F">on the bays</text>
+  <rect x="672" y="158" width="180" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="690" y="188" class="lbl">Awaiting auth</text><text x="690" y="222" class="num" font-size="24">5</text><text x="690" y="242" font-size="11" font-weight="600" fill="#1A5FB4">$8.9k pending</text>
+  <rect x="868" y="158" width="180" height="84" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/><text x="886" y="188" class="lbl">Sublet out</text><text x="886" y="222" class="num" font-size="24">3</text><text x="886" y="242" font-size="11" font-weight="600" fill="#c479c2">at vendors</text>
+  </g>
+
+  <rect x="280" y="262" width="1136" height="56" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <rect x="300" y="274" width="260" height="32" rx="16" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="314" y="281" width="16" height="16"/></g><text x="338" y="294" font-size="12" fill="#9AA4B2">Search WO, customer or plate</text>
+  <rect x="580" y="274" width="96" height="32" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="596" y="294" class="cell" font-size="12">Status</text><g style="color:#8A95A5"><use href="#ic-chevd" x="648" y="281" width="16" height="16"/></g>
+  <rect x="686" y="274" width="100" height="32" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="702" y="294" class="cell" font-size="12">Advisor</text><g style="color:#8A95A5"><use href="#ic-chevd" x="758" y="281" width="16" height="16"/></g>
+  <rect x="796" y="274" width="84" height="32" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="812" y="294" class="cell" font-size="12">Date</text><g style="color:#8A95A5"><use href="#ic-chevd" x="852" y="281" width="16" height="16"/></g>
+  <rect x="1320" y="274" width="96" height="32" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><g style="color:#5A6A85"><use href="#ic-download" x="1336" y="281" width="16" height="16"/></g><text x="1358" y="294" class="cell" font-size="12">Export</text>
+
+  <rect x="280" y="330" width="1136" height="456" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <g class="col" font-size="10.5"><text x="300" y="362">WO #</text><text x="392" y="362">CUSTOMER</text><text x="560" y="362">VEHICLE</text><text x="770" y="362">STATUS</text><text x="940" y="362">ADVISOR</text><text x="1190" y="362" text-anchor="end">TOTAL</text><text x="1392" y="362" text-anchor="end">BALANCE</text></g>
+  <line x1="300" y1="372" x2="1392" y2="372" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <text x="300" y="396" class="cell">WO-10428</text><text x="392" y="396" class="sub">Acme Fleet Ltd</text><text x="560" y="396" class="sub">2019 Ford F-150</text><rect x="770" y="383" width="100" height="19" rx="9.5" fill="#EAF2FE"/><text x="820" y="396" class="pill" font-size="10.5" fill="#1A5FB4" text-anchor="middle">Repair Order</text><text x="940" y="396" class="sub">T. Hopper</text><text x="1190" y="396" class="cell" text-anchor="end">$711.90</text><text x="1392" y="396" class="cell" text-anchor="end" fill="#A8720F">$511.90</text><line x1="300" y1="414" x2="1392" y2="414" stroke="#F4F6FA"/>
+  <text x="300" y="432" class="cell">WO-10427</text><text x="392" y="432" class="sub">M. Delgado</text><text x="560" y="432" class="sub">2021 Honda CR-V</text><rect x="770" y="419" width="92" height="19" rx="9.5" fill="#FEF4E6"/><text x="816" y="432" class="pill" font-size="10.5" fill="#A8720F" text-anchor="middle">In progress</text><text x="940" y="432" class="sub">T. Hopper</text><text x="1190" y="432" class="cell" text-anchor="end">$284.50</text><text x="1392" y="432" class="cell" text-anchor="end" fill="#A8720F">$284.50</text><line x1="300" y1="450" x2="1392" y2="450" stroke="#F4F6FA"/>
+  <text x="300" y="468" class="cell">WO-10425</text><text x="392" y="468" class="sub">R. Okafor</text><text x="560" y="468" class="sub">2018 RAM 1500</text><rect x="770" y="455" width="80" height="19" rx="9.5" fill="#EEF1F6"/><text x="810" y="468" class="pill" font-size="10.5" fill="#5A6A85" text-anchor="middle">Estimate</text><text x="940" y="468" class="sub">K. Singh</text><text x="1190" y="468" class="cell" text-anchor="end">$1,940.00</text><text x="1392" y="468" class="sub" text-anchor="end">—</text><line x1="300" y1="486" x2="1392" y2="486" stroke="#F4F6FA"/>
+  <text x="300" y="504" class="cell">WO-10422</text><text x="392" y="504" class="sub">Northstar Logistics</text><text x="560" y="504" class="sub">2020 Freightliner</text><rect x="770" y="491" width="100" height="19" rx="9.5" fill="#EAF2FE"/><text x="820" y="504" class="pill" font-size="10.5" fill="#1A5FB4" text-anchor="middle">Repair Order</text><text x="940" y="504" class="sub">T. Hopper</text><text x="1190" y="504" class="cell" text-anchor="end">$3,210.00</text><text x="1392" y="504" class="cell" text-anchor="end" fill="#A8720F">$3,210.00</text><line x1="300" y1="522" x2="1392" y2="522" stroke="#F4F6FA"/>
+  <text x="300" y="540" class="cell">WO-10419</text><text x="392" y="540" class="sub">S. Tremblay</text><text x="560" y="540" class="sub">2017 Toyota Camry</text><rect x="770" y="527" width="60" height="19" rx="9.5" fill="#E6FBF5"/><text x="800" y="540" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Ready</text><text x="940" y="540" class="sub">K. Singh</text><text x="1190" y="540" class="cell" text-anchor="end">$612.30</text><text x="1392" y="540" class="cell" text-anchor="end" fill="#A8720F">$612.30</text><line x1="300" y1="558" x2="1392" y2="558" stroke="#F4F6FA"/>
+  <text x="300" y="576" class="cell">WO-10416</text><text x="392" y="576" class="sub">Acme Fleet Ltd</text><text x="560" y="576" class="sub">2019 Ford Transit</text><rect x="770" y="563" width="88" height="19" rx="9.5" fill="#E6FBF5"/><text x="814" y="576" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Invoice · Paid</text><text x="940" y="576" class="sub">T. Hopper</text><text x="1190" y="576" class="cell" text-anchor="end">$430.75</text><text x="1392" y="576" class="cell" text-anchor="end" fill="#0F9C96">$0.00</text><line x1="300" y1="594" x2="1392" y2="594" stroke="#F4F6FA"/>
+  <text x="300" y="612" class="cell">WO-10410</text><text x="392" y="612" class="sub">D. Park</text><text x="560" y="612" class="sub">2016 GMC Sierra</text><rect x="770" y="599" width="100" height="19" rx="9.5" fill="#EAF2FE"/><text x="820" y="612" class="pill" font-size="10.5" fill="#1A5FB4" text-anchor="middle">Repair Order</text><text x="940" y="612" class="sub">K. Singh</text><text x="1190" y="612" class="cell" text-anchor="end">$980.00</text><text x="1392" y="612" class="cell" text-anchor="end" fill="#A8720F">$980.00</text><line x1="300" y1="630" x2="1392" y2="630" stroke="#F4F6FA"/>
+  <text x="300" y="648" class="cell">WO-10399</text><text x="392" y="648" class="sub">L. Romano</text><text x="560" y="648" class="sub">2014 Subaru Outback</text><rect x="770" y="635" width="88" height="19" rx="9.5" fill="#E6FBF5"/><text x="814" y="648" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Invoice · Paid</text><text x="940" y="648" class="sub">T. Hopper</text><text x="1190" y="648" class="cell" text-anchor="end">$356.20</text><text x="1392" y="648" class="cell" text-anchor="end" fill="#0F9C96">$0.00</text>
+  </g>
+  <line x1="300" y1="730" x2="1392" y2="730" stroke="#ECEFF4"/>
+  <text x="300" y="760" class="mut" font-size="12">Showing 1–8 of 42 open work orders</text>
+  <text x="1392" y="760" class="mut" font-size="12" text-anchor="end">‹   1   2   3   …   6   ›</text>
+</svg>

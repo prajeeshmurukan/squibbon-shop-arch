@@ -1,0 +1,62 @@
+<svg viewBox="0 0 1000 940" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon — Circle check submit (mobile)</title>
+  <defs>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="16" flood-color="#2A3547" flood-opacity="0.18"/></filter>
+    <g id="ic-chevl" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.5 5 L7 10 l5.5 5"/></g>
+    <g id="ic-check" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.5 l3.6 3.6 L16 6"/></g>
+    <g id="ic-cam" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><rect x="3" y="6" width="14" height="9.5" rx="2"/><circle cx="10" cy="11" r="2.6"/><path d="M7 6 l1.1-1.8 h3.8 l1.1 1.8"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 5 V15 M5 10 H15"/></g>
+  </defs>
+  <style>
+    .lbl{fill:#5A6A85;font-weight:500}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.val{fill:#2A3547;font-weight:500}.pill{font-weight:600}
+  </style>
+  <rect width="1000" height="940" fill="#ECEFF4"/>
+  <rect x="300" y="34" width="400" height="872" rx="46" fill="#CDD4DF" filter="url(#sh)"/>
+  <rect x="312" y="46" width="376" height="848" rx="40" fill="#FFFFFF"/>
+  <rect x="476" y="58" width="48" height="9" rx="4.5" fill="#DCE1EA"/>
+
+  <text x="336" y="86" font-size="13" font-weight="700" fill="#2A3547">9:41</text>
+  <rect x="646" y="78" width="20" height="10" rx="2.5" fill="none" stroke="#2A3547" stroke-width="1.2"/><rect x="648" y="80" width="13" height="6" rx="1" fill="#2A3547"/>
+
+  <g style="color:#2A3547"><use href="#ic-chevl" x="330" y="98" width="20" height="20"/></g>
+  <text x="500" y="113" font-size="16" font-weight="700" fill="#2A3547" text-anchor="middle">Circle check</text>
+  <line x1="312" y1="132" x2="688" y2="132" stroke="#ECEFF4"/>
+
+  <rect x="328" y="144" width="344" height="74" rx="12" fill="#F4F6FB"/>
+  <text x="346" y="174" font-size="15" font-weight="700" fill="#2A3547">TRK-1180</text><text x="346" y="194" class="mut" font-size="11.5">Truck · Ontario</text>
+  <text x="654" y="174" class="cell" font-size="11.5" text-anchor="end">07:42 · 20 Jun</text><text x="654" y="194" class="mut" font-size="11" text-anchor="end">Mississauga yard</text>
+
+  <text x="332" y="244" class="lbl" font-size="12">Odometer (km)</text>
+  <rect x="328" y="252" width="344" height="38" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="346" y="276" class="val" font-size="13">412,880</text>
+
+  <text x="332" y="316" class="lbl" font-size="12">Inspection type</text>
+  <rect x="328" y="324" width="344" height="36" rx="8" fill="#F4F6FB"/><rect x="332" y="328" width="166" height="28" rx="6" fill="#FFEBFE"/><text x="415" y="346" font-size="12.5" font-weight="600" fill="#c479c2" text-anchor="middle">Pre-trip</text><text x="582" y="346" font-size="12.5" font-weight="500" fill="#5A6A85" text-anchor="middle">Post-trip</text>
+
+  <text x="332" y="390" font-size="14" font-weight="600" fill="#2A3547">Inspection items</text>
+
+  <rect x="328" y="402" width="344" height="118" rx="12" fill="#FDF6F4" stroke="#F6D9CF"/>
+  <text x="346" y="426" font-size="13.5" font-weight="600" fill="#2A3547">Brakes</text>
+  <rect x="566" y="412" width="100" height="20" rx="10" fill="#FDECEC"/><text x="616" y="426" class="pill" font-size="10" fill="#C0392B" text-anchor="middle">Major defect</text>
+  <rect x="346" y="438" width="150" height="24" rx="6" fill="#FFFFFF" stroke="#E4D2CC"/><rect x="349" y="441" width="72" height="18" rx="5" fill="#FDECEC"/><text x="385" y="454" font-size="10.5" font-weight="600" fill="#C0392B" text-anchor="middle">Major</text><text x="460" y="454" font-size="10.5" font-weight="500" fill="#8A95A5" text-anchor="middle">Minor</text>
+  <text x="346" y="482" class="cell" font-size="12">Air leak at brake chamber</text>
+  <rect x="346" y="490" width="40" height="22" rx="5" fill="#E4E9F0"/><g style="color:#8A95A5"><use href="#ic-cam" x="354" y="494" width="14" height="14"/></g>
+  <rect x="394" y="490" width="40" height="22" rx="5" fill="#E4E9F0"/><g style="color:#8A95A5"><use href="#ic-cam" x="402" y="494" width="14" height="14"/></g>
+  <rect x="442" y="490" width="40" height="22" rx="5" fill="#FFFFFF" stroke="#C7D0DC" stroke-dasharray="3 3"/><g style="color:#8A95A5"><use href="#ic-plus" x="450" y="494" width="14" height="14"/></g>
+
+  <text x="346" y="548" class="cell" font-size="13">Lights &amp; reflectors</text><g style="color:#13B89B"><use href="#ic-check" x="624" y="536" width="18" height="18"/></g><text x="648" y="548" font-size="12" font-weight="600" fill="#0F9C96">Pass</text>
+  <line x1="346" y1="562" x2="654" y2="562" stroke="#EEF1F6"/>
+  <text x="346" y="586" class="cell" font-size="13">Tires &amp; wheels</text><g style="color:#13B89B"><use href="#ic-check" x="624" y="574" width="18" height="18"/></g><text x="648" y="586" font-size="12" font-weight="600" fill="#0F9C96">Pass</text>
+  <line x1="346" y1="600" x2="654" y2="600" stroke="#EEF1F6"/>
+  <text x="346" y="624" class="cell" font-size="13">Coupling devices</text><rect x="588" y="612" width="66" height="20" rx="10" fill="#FEF4E6"/><text x="621" y="626" class="pill" font-size="10.5" fill="#A8720F" text-anchor="middle">Minor</text>
+  <line x1="346" y1="638" x2="654" y2="638" stroke="#EEF1F6"/>
+  <text x="346" y="662" class="cell" font-size="13">Steering</text><g style="color:#13B89B"><use href="#ic-check" x="624" y="650" width="18" height="18"/></g><text x="648" y="662" font-size="12" font-weight="600" fill="#0F9C96">Pass</text>
+  <line x1="346" y1="676" x2="654" y2="676" stroke="#EEF1F6"/>
+  <text x="346" y="700" class="cell" font-size="13">Air system &amp; lines</text><g style="color:#13B89B"><use href="#ic-check" x="624" y="688" width="18" height="18"/></g><text x="648" y="700" font-size="12" font-weight="600" fill="#0F9C96">Pass</text>
+
+  <line x1="312" y1="734" x2="688" y2="734" stroke="#ECEFF4"/>
+  <text x="332" y="758" font-size="10.5" font-weight="600" fill="#C0392B">Major defect — dispatch blocked until resolved</text>
+  <rect x="328" y="770" width="344" height="44" rx="10" fill="#c479c2"/><text x="500" y="797" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Submit circle check</text>
+  <rect x="470" y="868" width="60" height="5" rx="2.5" fill="#DCE1EA"/>
+
+  <text x="500" y="924" font-size="12" font-weight="500" fill="#8A95A5" text-anchor="middle">Squibbon driver app — circle check (pre-trip / post-trip)</text>
+</svg>

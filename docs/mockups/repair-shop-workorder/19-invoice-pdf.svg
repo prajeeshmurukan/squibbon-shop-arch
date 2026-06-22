@@ -1,0 +1,60 @@
+<svg viewBox="0 0 1000 1240" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Invoice PDF</title>
+  <defs>
+    <filter id="psh" x="-6%" y="-3%" width="112%" height="106%"><feDropShadow dx="0" dy="8" stdDeviation="20" flood-color="#2A3547" flood-opacity="0.12"/></filter>
+  </defs>
+  <style>
+    .h{fill:#2A3547;font-weight:600}.sub{fill:#5A6A85;font-weight:400}.lbl{fill:#8A95A5;font-weight:500}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.num{fill:#2A3547;font-weight:700}.col{fill:#8A95A5;font-weight:600;letter-spacing:.6px}.pill{font-weight:600}
+  </style>
+  <rect width="1000" height="1240" fill="#EEF1F6"/>
+  <rect x="140" y="40" width="720" height="1160" rx="10" fill="#FFFFFF" filter="url(#psh)"/>
+
+  <rect x="170" y="70" width="32" height="32" rx="8" fill="#c479c2"/><text x="186" y="92" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text>
+  <text x="212" y="86" class="h" font-size="17">Mississauga Auto Service</text><text x="212" y="106" class="mut" font-size="12">123 Shop Rd, Mississauga ON · (905) 555-0100</text><text x="212" y="122" class="mut" font-size="12">HST 80123 4567 RT0001</text>
+  <text x="830" y="84" class="h" font-size="20" text-anchor="end">INVOICE</text><text x="830" y="108" class="cell" font-size="13" text-anchor="end">INV-10428</text><text x="830" y="126" class="mut" font-size="12" text-anchor="end">22 Jun 2026 · WO-10428</text>
+  <line x1="170" y1="150" x2="830" y2="150" stroke="#E4E9F0"/>
+
+  <text x="170" y="182" class="col" font-size="11">BILL TO</text>
+  <text x="170" y="204" class="cell" font-size="13">Acme Fleet Ltd</text><text x="170" y="222" class="mut" font-size="12">Net 30 · PO #4821 · ap@acmefleet.ca</text>
+  <text x="520" y="182" class="col" font-size="11">VEHICLE</text>
+  <text x="520" y="204" class="cell" font-size="13">2019 Ford F-150 · XLT</text><text x="520" y="222" class="mut" font-size="12">VIN 1FTEW1E5XKF… · ABCD 123 · 84,213 km</text>
+  <line x1="170" y1="246" x2="830" y2="246" stroke="#E4E9F0"/>
+
+  <g class="col" font-size="10.5"><text x="170" y="276">DESCRIPTION</text><text x="600" y="276" text-anchor="end">QTY</text><text x="710" y="276" text-anchor="end">RATE</text><text x="830" y="276" text-anchor="end">AMOUNT</text></g>
+  <line x1="170" y1="286" x2="830" y2="286" stroke="#ECEFF4"/>
+
+  <text x="170" y="312" class="h" font-size="13">Front brake service</text>
+  <g font-size="12.5">
+  <text x="190" y="338" class="cell">Labour — replace front pads &amp; rotors</text><text x="600" y="338" class="sub" text-anchor="end">2.0 hr</text><text x="710" y="338" class="sub" text-anchor="end">$120.00</text><text x="830" y="338" class="cell" text-anchor="end">$240.00</text>
+  <text x="190" y="362" class="cell">Brake pads — BP-1234 (Bosch)</text><text x="600" y="362" class="sub" text-anchor="end">1</text><text x="710" y="362" class="sub" text-anchor="end">$58.00</text><text x="830" y="362" class="cell" text-anchor="end">$58.00</text>
+  <text x="190" y="386" class="cell">Rotors — RT-77 (Raybestos)</text><text x="600" y="386" class="sub" text-anchor="end">2</text><text x="710" y="386" class="sub" text-anchor="end">$52.00</text><text x="830" y="386" class="cell" text-anchor="end">$104.00</text>
+  </g>
+  <line x1="170" y1="406" x2="830" y2="406" stroke="#F4F6FA"/>
+  <text x="170" y="432" class="h" font-size="13">Windshield replacement</text><text x="318" y="432" class="pill" font-size="10" fill="#c479c2">· sublet</text>
+  <text x="190" y="458" class="cell" font-size="12.5">ClearView Glass — outside repair (12-mo warranty)</text><text x="830" y="458" class="cell" font-size="12.5" text-anchor="end">$230.00</text>
+  <line x1="170" y1="478" x2="830" y2="478" stroke="#F4F6FA"/>
+  <text x="190" y="504" class="cell" font-size="12.5">Shop supplies</text><text x="830" y="504" class="cell" font-size="12.5" text-anchor="end">$18.00</text>
+  <text x="190" y="528" class="cell" font-size="12.5">Discount — fleet</text><text x="830" y="528" class="cell" font-size="12.5" text-anchor="end" fill="#0F9C96">−$20.00</text>
+  <line x1="170" y1="548" x2="830" y2="548" stroke="#ECEFF4"/>
+
+  <g font-size="12.5">
+  <text x="600" y="578" class="sub">Subtotal</text><text x="830" y="578" class="cell" text-anchor="end">$630.00</text>
+  <text x="600" y="602" class="sub">HST (13%)</text><text x="830" y="602" class="cell" text-anchor="end">$81.90</text>
+  </g>
+  <line x1="600" y1="618" x2="830" y2="618" stroke="#F4F6FA"/>
+  <text x="600" y="642" class="num" font-size="14">Total</text><text x="830" y="642" class="num" font-size="14" text-anchor="end">$711.90</text>
+  <text x="600" y="668" class="sub" font-size="12.5">Deposit paid</text><text x="830" y="668" class="cell" font-size="12.5" text-anchor="end" fill="#0F9C96">−$200.00</text>
+  <text x="600" y="696" class="num" font-size="15">Balance due</text><text x="830" y="696" class="num" font-size="15" text-anchor="end">$511.90</text>
+
+  <line x1="170" y1="724" x2="830" y2="724" stroke="#E4E9F0"/>
+  <text x="170" y="752" class="col" font-size="11">PAYMENTS</text>
+  <text x="170" y="774" class="cell" font-size="12.5">18 Jun 2026 · Visa •• 4242 · deposit</text><text x="830" y="774" class="cell" font-size="12.5" text-anchor="end">$200.00</text>
+  <line x1="170" y1="796" x2="830" y2="796" stroke="#E4E9F0"/>
+
+  <text x="170" y="828" class="lbl" font-size="11">TERMS &amp; WARRANTY</text>
+  <text x="170" y="850" class="mut" font-size="11.5">Payment due Net 30. Parts &amp; labour warranted 12 months / 20,000 km.</text>
+  <text x="170" y="868" class="mut" font-size="11.5">Sublet work carries the outside vendor's warranty (windshield: ClearView Glass, 12 months).</text>
+  <text x="170" y="886" class="mut" font-size="11.5">Old parts available on request. Authorized by J. Carter on 18 Jun 2026.</text>
+
+  <text x="500" y="1150" class="mut" font-size="12.5" text-anchor="middle">Thank you for your business — Mississauga Auto Service</text>
+</svg>

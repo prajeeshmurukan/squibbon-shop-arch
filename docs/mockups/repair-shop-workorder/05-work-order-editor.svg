@@ -1,0 +1,148 @@
+<svg viewBox="0 0 1440 940" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon — Work order editor (in-house + sublet)</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-box" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 2.6 l6.4 3.5 v7.8 l-6.4 3.5 -6.4-3.5 v-7.8z"/><path d="M3.6 6.1 L10 9.6 l6.4-3.5 M10 9.6 V17.4"/></g>
+    <g id="ic-cart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4 h2.2 l1.8 8.4 h7.6 l1.6-5.8 H6.2"/><circle cx="8" cy="16" r="1.3"/><circle cx="14.5" cy="16" r="1.3"/></g>
+    <g id="ic-building" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4.5" y="3.5" width="11" height="14" rx="1.2"/><path d="M7.5 7 h1 M11.5 7 h1 M7.5 10 h1 M11.5 10 h1"/><path d="M8.5 17.5 v-3 h3 v3"/></g>
+    <g id="ic-bill" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2.6 h10 v15 l-2-1.3 -2 1.3 -2-1.3 -2 1.3 -2-1.3z"/><path d="M7.4 7 h5.2 M7.4 10 h5.2 M7.4 13 h3.2"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+    <g id="ic-chart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 16.5 h14"/><rect x="4.5" y="9" width="2.6" height="5.5"/><rect x="8.7" y="6" width="2.6" height="8.5"/><rect x="12.9" y="11" width="2.6" height="3.5"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-dots" fill="#8A95A5" stroke="none"><circle cx="10" cy="4.5" r="1.3"/><circle cx="10" cy="10" r="1.3"/><circle cx="10" cy="15.5" r="1.3"/></g>
+    <g id="ic-arrow" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10 h11 M11 6 l4 4 -4 4"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.sub{fill:#5A6A85;font-weight:400}.lbl{fill:#8A95A5;font-weight:500}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.lnk{fill:#c479c2;font-weight:600}.pill{font-weight:600}.num{fill:#2A3547;font-weight:700}
+  </style>
+  <rect width="1440" height="940" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="940" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="940" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <rect x="12" y="172" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-clip" x="22" y="177" width="18" height="18"/></g><text x="50" y="191" font-size="12.5" font-weight="600" fill="#c479c2">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="214" width="18" height="18"/></g><text x="50" y="228" class="navi" font-size="12.5">Customers</text>
+  <g style="color:#5A6A85"><use href="#ic-truck" x="22" y="252" width="18" height="18"/></g><text x="50" y="266" class="navi" font-size="12.5">Vehicles</text>
+  <text x="24" y="304" class="col" font-size="11">PARTS &amp; VENDORS</text>
+  <g style="color:#5A6A85"><use href="#ic-box" x="22" y="314" width="18" height="18"/></g><text x="50" y="328" class="navi" font-size="12.5">Inventory / parts</text>
+  <g style="color:#5A6A85"><use href="#ic-cart" x="22" y="352" width="18" height="18"/></g><text x="50" y="366" class="navi" font-size="12.5">Purchase orders</text>
+  <g style="color:#5A6A85"><use href="#ic-building" x="22" y="390" width="18" height="18"/></g><text x="50" y="404" class="navi" font-size="12.5">Vendors</text>
+  <text x="24" y="442" class="col" font-size="11">BILLING</text>
+  <g style="color:#5A6A85"><use href="#ic-bill" x="22" y="452" width="18" height="18"/></g><text x="50" y="466" class="navi" font-size="12.5">Invoices</text>
+  <g style="color:#5A6A85"><use href="#ic-card" x="22" y="490" width="18" height="18"/></g><text x="50" y="504" class="navi" font-size="12.5">Payments</text>
+  <g style="color:#5A6A85"><use href="#ic-chart" x="22" y="528" width="18" height="18"/></g><text x="50" y="542" class="navi" font-size="12.5">Reports</text>
+  <text x="24" y="580" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="590" width="18" height="18"/></g><text x="50" y="604" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search WO, customer, plate or VIN…</text>
+  <rect x="1078" y="17" width="200" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-bill" x="1100" y="28" width="16" height="16"/></g><text x="1124" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">Convert to invoice</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">T. Hopper</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Advisor</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">TH</text>
+
+  <text x="280" y="118" font-size="22" font-weight="700" fill="#2A3547">WO-10428</text>
+  <rect x="430" y="103" width="110" height="22" rx="11" fill="#EAF2FE"/><text x="485" y="118" class="pill" font-size="11" fill="#1A5FB4" text-anchor="middle">Repair Order</text>
+  <rect x="548" y="103" width="92" height="22" rx="11" fill="#E6FBF5"/><text x="594" y="118" class="pill" font-size="11" fill="#0F9C96" text-anchor="middle">Authorized</text>
+  <text x="280" y="140" font-size="12.5" fill="#5A6A85">Created 18 Jun 2026 · Advisor T. Hopper · GP $260 (37%)</text>
+  <rect x="1156" y="100" width="120" height="34" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="1216" y="121" font-size="12" font-weight="600" fill="#5A6A85" text-anchor="middle">Send estimate</text>
+
+  <rect x="280" y="158" width="1136" height="72" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="186" class="lbl" font-size="11">CUSTOMER</text><text x="304" y="208" class="cell" font-size="13">Acme Fleet Ltd · (416) 555-0148</text>
+  <text x="620" y="186" class="lbl" font-size="11">VEHICLE</text><text x="620" y="208" class="cell" font-size="13">2019 Ford F-150 · ABCD 123 · VIN 1FTEW1E5…</text>
+  <text x="1120" y="186" class="lbl" font-size="11">MILEAGE IN</text><text x="1120" y="208" class="cell" font-size="13">84,210 km</text>
+  <text x="1290" y="186" class="lbl" font-size="11">PROMISED</text><text x="1290" y="208" class="cell" font-size="13">Today, 5:00 PM</text>
+
+  <text x="288" y="262" font-size="13" font-weight="600" fill="#c479c2">Jobs</text><rect x="284" y="271" width="34" height="3" rx="1.5" fill="#c479c2"/>
+  <text x="344" y="262" class="navi" font-size="12.5">Inspections</text>
+  <text x="448" y="262" class="navi" font-size="12.5">Parts &amp; POs</text>
+  <text x="552" y="262" class="navi" font-size="12.5">Messages</text>
+  <text x="648" y="262" class="navi" font-size="12.5">History</text>
+  <line x1="280" y1="278" x2="1416" y2="278" stroke="#ECEFF4"/>
+
+  <!-- JOB 1 — in-house brake service -->
+  <rect x="280" y="292" width="786" height="232" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="322" class="h" font-size="15">Front brake service</text>
+  <rect x="466" y="310" width="58" height="20" rx="10" fill="#EEF1F6"/><text x="495" y="324" class="pill" font-size="10" fill="#5A6A85" text-anchor="middle">Brakes</text>
+  <rect x="534" y="310" width="86" height="20" rx="10" fill="#FEF4E6"/><text x="577" y="324" class="pill" font-size="10" fill="#A8720F" text-anchor="middle">In progress</text>
+  <text x="1042" y="322" class="num" font-size="15" text-anchor="end">$402.00</text>
+  <text x="304" y="342" font-size="11" font-weight="600" fill="#0F9C96">Approved · J. Carter</text>
+  <g class="col" font-size="10"><text x="372" y="368">ITEM</text><text x="744" y="368">QTY / HRS</text><text x="838" y="368">COST</text><text x="918" y="368">RETAIL</text><text x="1042" y="368" text-anchor="end">TOTAL</text></g>
+  <line x1="304" y1="376" x2="1042" y2="376" stroke="#ECEFF4"/>
+  <rect x="304" y="386" width="54" height="18" rx="9" fill="#EAF2FE"/><text x="331" y="399" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">Labour</text>
+  <text x="372" y="396" class="cell" font-size="12.5">Replace front pads &amp; rotors</text><text x="372" y="412" class="mut" font-size="10.5">Tech: A. Roy · MOTOR 0.0</text>
+  <text x="744" y="396" class="sub" font-size="12.5">2.0 hr</text><text x="838" y="396" class="sub" font-size="12.5">$120/hr</text><text x="918" y="396" class="sub" font-size="12.5">—</text><text x="1042" y="396" class="cell" font-size="12.5" text-anchor="end">$240.00</text>
+  <line x1="304" y1="422" x2="1042" y2="422" stroke="#F4F6FA"/>
+  <rect x="304" y="432" width="54" height="18" rx="9" fill="#E6FBFA"/><text x="331" y="445" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Part</text>
+  <text x="372" y="442" class="cell" font-size="12.5">Brake pads — BP-1234</text><text x="372" y="458" class="mut" font-size="10.5">In stock · bin A-12</text>
+  <text x="744" y="442" class="sub" font-size="12.5">1</text><text x="838" y="442" class="sub" font-size="12.5">$28.00</text><text x="918" y="442" class="sub" font-size="12.5">$58.00</text><text x="1042" y="442" class="cell" font-size="12.5" text-anchor="end">$58.00</text>
+  <line x1="304" y1="468" x2="1042" y2="468" stroke="#F4F6FA"/>
+  <rect x="304" y="478" width="54" height="18" rx="9" fill="#E6FBFA"/><text x="331" y="491" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Part</text>
+  <text x="372" y="488" class="cell" font-size="12.5">Rotors — RT-77</text><text x="372" y="504" class="mut" font-size="10.5">Special order · PO-1051 · received</text>
+  <text x="744" y="488" class="sub" font-size="12.5">2</text><text x="838" y="488" class="sub" font-size="12.5">$30.00</text><text x="918" y="488" class="sub" font-size="12.5">$52.00</text><text x="1042" y="488" class="cell" font-size="12.5" text-anchor="end">$104.00</text>
+  <line x1="304" y1="510" x2="1042" y2="510" stroke="#ECEFF4"/>
+  <text x="304" y="487" class="lnk" font-size="0"> </text>
+
+  <!-- JOB 2 — sublet windshield -->
+  <rect x="280" y="540" width="786" height="160" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="570" class="h" font-size="15">Windshield replacement</text>
+  <rect x="494" y="558" width="50" height="20" rx="10" fill="#EEF1F6"/><text x="519" y="572" class="pill" font-size="10" fill="#5A6A85" text-anchor="middle">Glass</text>
+  <rect x="554" y="558" width="76" height="20" rx="10" fill="#FFEBFE"/><text x="592" y="572" class="pill" font-size="10" fill="#c479c2" text-anchor="middle">Sent out</text>
+  <text x="1042" y="570" class="num" font-size="15" text-anchor="end">$230.00</text>
+  <text x="304" y="590" font-size="11" font-weight="600" fill="#0F9C96">Approved · J. Carter</text>
+  <line x1="304" y1="602" x2="1042" y2="602" stroke="#ECEFF4"/>
+  <rect x="304" y="618" width="58" height="18" rx="9" fill="#FFEBFE"/><text x="333" y="631" class="pill" font-size="9.5" fill="#c479c2" text-anchor="middle">Sublet</text>
+  <text x="372" y="628" class="cell" font-size="12.5">Windshield R&amp;R — full sublet</text><text x="372" y="644" class="mut" font-size="10.5">Vendor: ClearView Glass · PO-1052 · vendor warranty 12 mo</text>
+  <text x="744" y="628" class="lbl" font-size="10">VENDOR COST</text><text x="744" y="644" class="cell" font-size="12.5">$180.00</text>
+  <text x="858" y="628" class="lbl" font-size="10">MARKUP</text><text x="858" y="644" class="cell" font-size="12.5">28%</text>
+  <text x="1042" y="628" class="lbl" font-size="10" text-anchor="end">CUSTOMER PRICE</text><text x="1042" y="646" class="num" font-size="13" text-anchor="end">$230.00</text>
+  <text x="304" y="680" class="mut" font-size="11">Outside repair — recorded with vendor cost, markup, PO &amp; warranty</text>
+
+  <rect x="280" y="716" width="180" height="36" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><g style="color:#5A6A85"><use href="#ic-plus" x="300" y="725" width="16" height="16"/></g><text x="324" y="739" font-size="12.5" font-weight="600" fill="#5A6A85">Add job</text>
+  <rect x="472" y="716" width="200" height="36" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><g style="color:#5A6A85"><use href="#ic-plus" x="492" y="725" width="16" height="16"/></g><text x="516" y="739" font-size="12.5" font-weight="600" fill="#5A6A85">Add canned service</text>
+  <rect x="684" y="716" width="170" height="36" rx="8" fill="#FFEBFE"/><g style="color:#c479c2"><use href="#ic-plus" x="704" y="725" width="16" height="16"/></g><text x="728" y="739" font-size="12.5" font-weight="600" fill="#c479c2">Add sublet job</text>
+
+  <!-- RIGHT RAIL -->
+  <rect x="1082" y="292" width="334" height="150" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="1102" y="322" class="h" font-size="14">Customer &amp; vehicle</text>
+  <text x="1102" y="346" class="cell" font-size="13" font-weight="600">Acme Fleet Ltd</text><text x="1102" y="364" class="mut" font-size="11.5">(416) 555-0148 · Net 30 · fleet</text>
+  <text x="1102" y="388" class="cell" font-size="12.5">2019 Ford F-150</text>
+  <text x="1102" y="406" class="mut" font-size="11">VIN 1FTEW1E5XKF… · ABCD 123 · ON</text>
+  <text x="1102" y="426" class="lnk" font-size="12">Open profile →</text>
+
+  <rect x="1082" y="458" width="334" height="104" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="1102" y="488" class="h" font-size="14">Authorization</text>
+  <rect x="1300" y="474" width="96" height="20" rx="10" fill="#E6FBF5"/><text x="1348" y="488" class="pill" font-size="10.5" fill="#0F9C96" text-anchor="middle">Authorized</text>
+  <text x="1102" y="516" class="mut" font-size="11.5">E-signature · J. Carter · 18 Jun, 10:12</text>
+  <text x="1102" y="538" class="cell" font-size="12.5">Authorized total $868.00 · both jobs approved</text>
+
+  <rect x="1082" y="578" width="334" height="308" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="1102" y="608" class="h" font-size="14">Totals</text>
+  <g font-size="12.5">
+  <text x="1102" y="636" class="sub">Labour</text><text x="1396" y="636" class="cell" text-anchor="end">$240.00</text>
+  <text x="1102" y="662" class="sub">Parts</text><text x="1396" y="662" class="cell" text-anchor="end">$162.00</text>
+  <text x="1102" y="688" class="sub">Sublet</text><text x="1396" y="688" class="cell" text-anchor="end">$230.00</text>
+  <text x="1102" y="714" class="sub">Shop supplies</text><text x="1396" y="714" class="cell" text-anchor="end">$18.00</text>
+  <text x="1102" y="740" class="sub">Discount</text><text x="1396" y="740" class="cell" text-anchor="end" fill="#0F9C96">−$20.00</text>
+  </g>
+  <line x1="1102" y1="756" x2="1396" y2="756" stroke="#F4F6FA"/>
+  <text x="1102" y="778" class="cell" font-size="12.5">Subtotal</text><text x="1396" y="778" class="cell" font-size="12.5" text-anchor="end">$630.00</text>
+  <text x="1102" y="802" class="sub" font-size="12.5">HST (13%)</text><text x="1396" y="802" class="cell" font-size="12.5" text-anchor="end">$81.90</text>
+  <text x="1102" y="828" class="num" font-size="14">Total</text><text x="1396" y="828" class="num" font-size="14" text-anchor="end">$711.90</text>
+  <text x="1102" y="852" class="sub" font-size="12.5">Deposit</text><text x="1396" y="852" class="cell" font-size="12.5" text-anchor="end" fill="#0F9C96">−$200.00</text>
+  <text x="1102" y="876" font-size="13" font-weight="700" fill="#c479c2">Balance due</text><text x="1396" y="876" font-size="13" font-weight="700" fill="#c479c2" text-anchor="end">$511.90</text>
+</svg>

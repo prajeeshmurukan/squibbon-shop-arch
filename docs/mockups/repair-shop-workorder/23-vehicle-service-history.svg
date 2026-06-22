@@ -1,0 +1,95 @@
+<svg viewBox="0 0 1440 820" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Vehicle service history</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-box" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 2.6 l6.4 3.5 v7.8 l-6.4 3.5 -6.4-3.5 v-7.8z"/><path d="M3.6 6.1 L10 9.6 l6.4-3.5 M10 9.6 V17.4"/></g>
+    <g id="ic-cart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4 h2.2 l1.8 8.4 h7.6 l1.6-5.8 H6.2"/><circle cx="8" cy="16" r="1.3"/><circle cx="14.5" cy="16" r="1.3"/></g>
+    <g id="ic-building" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4.5" y="3.5" width="11" height="14" rx="1.2"/><path d="M7.5 7 h1 M11.5 7 h1 M7.5 10 h1 M11.5 10 h1"/><path d="M8.5 17.5 v-3 h3 v3"/></g>
+    <g id="ic-bill" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2.6 h10 v15 l-2-1.3 -2 1.3 -2-1.3 -2 1.3 -2-1.3z"/><path d="M7.4 7 h5.2 M7.4 10 h5.2 M7.4 13 h3.2"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+    <g id="ic-chart" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 16.5 h14"/><rect x="4.5" y="9" width="2.6" height="5.5"/><rect x="8.7" y="6" width="2.6" height="8.5"/><rect x="12.9" y="11" width="2.6" height="3.5"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-check" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.5 l3.6 3.6 L16 6"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.sub{fill:#5A6A85;font-weight:400}.lbl{fill:#8A95A5;font-weight:500}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.lnk{fill:#c479c2;font-weight:600}.pill{font-weight:600}
+  </style>
+  <rect width="1440" height="820" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="820" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="820" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <g style="color:#5A6A85"><use href="#ic-clip" x="22" y="177" width="18" height="18"/></g><text x="50" y="191" class="navi" font-size="12.5">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="214" width="18" height="18"/></g><text x="50" y="228" class="navi" font-size="12.5">Customers</text>
+  <rect x="12" y="247" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-truck" x="22" y="252" width="18" height="18"/></g><text x="50" y="266" font-size="12.5" font-weight="600" fill="#c479c2">Vehicles</text>
+  <text x="24" y="304" class="col" font-size="11">PARTS &amp; VENDORS</text>
+  <g style="color:#5A6A85"><use href="#ic-box" x="22" y="314" width="18" height="18"/></g><text x="50" y="328" class="navi" font-size="12.5">Inventory / parts</text>
+  <g style="color:#5A6A85"><use href="#ic-cart" x="22" y="352" width="18" height="18"/></g><text x="50" y="366" class="navi" font-size="12.5">Purchase orders</text>
+  <g style="color:#5A6A85"><use href="#ic-building" x="22" y="390" width="18" height="18"/></g><text x="50" y="404" class="navi" font-size="12.5">Vendors</text>
+  <text x="24" y="442" class="col" font-size="11">BILLING</text>
+  <g style="color:#5A6A85"><use href="#ic-bill" x="22" y="452" width="18" height="18"/></g><text x="50" y="466" class="navi" font-size="12.5">Invoices</text>
+  <g style="color:#5A6A85"><use href="#ic-card" x="22" y="490" width="18" height="18"/></g><text x="50" y="504" class="navi" font-size="12.5">Payments</text>
+  <g style="color:#5A6A85"><use href="#ic-chart" x="22" y="528" width="18" height="18"/></g><text x="50" y="542" class="navi" font-size="12.5">Reports</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search vehicle, VIN or plate…</text>
+  <rect x="1108" y="17" width="170" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-plus" x="1126" y="28" width="16" height="16"/></g><text x="1150" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">New work order</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">T. Hopper</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Advisor</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">TH</text>
+
+  <text x="280" y="110" class="mut" font-size="12">Vehicles  ›  2019 Ford F-150</text>
+  <rect x="280" y="130" width="1136" height="96" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="166" class="h" font-size="17">2019 Ford F-150 · XLT</text><text x="304" y="190" class="mut" font-size="12">VIN 1FTEW1E5XKF… · ABCD 123 · ON · 3.5L EcoBoost</text>
+  <text x="800" y="160" class="lbl" font-size="11">OWNER</text><text x="800" y="182" class="cell" font-size="13">Acme Fleet Ltd · Net 30</text>
+  <text x="1120" y="160" class="lbl" font-size="11">CURRENT MILEAGE</text><text x="1120" y="182" class="cell" font-size="13">84,213 km</text>
+
+  <rect x="280" y="246" width="760" height="540" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="278" class="h" font-size="15">Service history</text><text x="1016" y="278" class="mut" font-size="12" text-anchor="end">12 visits</text>
+  <line x1="304" y1="294" x2="1016" y2="294" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <text x="304" y="324" class="cell" font-weight="600">22 Jun 2026 · 84,213 km</text><rect x="540" y="312" width="84" height="18" rx="9" fill="#E6FBF5"/><text x="582" y="325" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">Warranty active</text><text x="1016" y="324" class="cell" text-anchor="end">$711.90</text>
+  <text x="304" y="344" class="mut" font-size="11.5">WO-10428 · Front brake service + windshield replacement (sublet)</text>
+  <line x1="304" y1="362" x2="1016" y2="362" stroke="#F4F6FA"/>
+  <text x="304" y="392" class="cell" font-weight="600">10 Mar 2026 · 78,400 km</text><text x="1016" y="392" class="cell" text-anchor="end">$129.00</text>
+  <text x="304" y="412" class="mut" font-size="11.5">WO-10301 · Oil change + tire rotation</text>
+  <line x1="304" y1="430" x2="1016" y2="430" stroke="#F4F6FA"/>
+  <text x="304" y="460" class="cell" font-weight="600">02 Nov 2025 · 71,250 km</text><text x="1016" y="460" class="cell" text-anchor="end">$389.00</text>
+  <text x="304" y="480" class="mut" font-size="11.5">WO-10188 · Transmission service</text>
+  <line x1="304" y1="498" x2="1016" y2="498" stroke="#F4F6FA"/>
+  <text x="304" y="528" class="cell" font-weight="600">18 Jun 2025 · 64,900 km</text><text x="1016" y="528" class="cell" text-anchor="end">$96.00</text>
+  <text x="304" y="548" class="mut" font-size="11.5">WO-10044 · Brake inspection · cabin filter declined</text>
+  <line x1="304" y1="566" x2="1016" y2="566" stroke="#F4F6FA"/>
+  <text x="304" y="596" class="cell" font-weight="600">03 Jan 2025 · 58,100 km</text><text x="1016" y="596" class="cell" text-anchor="end">$79.00</text>
+  <text x="304" y="616" class="mut" font-size="11.5">WO-9921 · Oil change</text>
+  </g>
+  <text x="304" y="700" class="lnk" font-size="12">View all 12 visits →</text>
+
+  <rect x="1056" y="246" width="360" height="540" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="1076" y="278" class="h" font-size="15">Active warranties</text>
+  <g style="color:#13B89B"><use href="#ic-check" x="1076" y="300" width="18" height="18"/></g><text x="1102" y="313" class="cell" font-size="12.5">Front brakes</text><text x="1396" y="313" class="mut" font-size="11.5" text-anchor="end">to Jun 2027</text>
+  <text x="1102" y="331" class="mut" font-size="11">12 mo / 20,000 km · WO-10428</text>
+  <line x1="1076" y1="348" x2="1396" y2="348" stroke="#F4F6FA"/>
+  <g style="color:#13B89B"><use href="#ic-check" x="1076" y="362" width="18" height="18"/></g><text x="1102" y="375" class="cell" font-size="12.5">Windshield (sublet)</text><text x="1396" y="375" class="mut" font-size="11.5" text-anchor="end">to Jun 2027</text>
+  <text x="1102" y="393" class="mut" font-size="11">ClearView Glass · 12 mo vendor warranty</text>
+
+  <text x="1076" y="442" class="h" font-size="15">Recommended &amp; declined</text>
+  <text x="1076" y="472" class="cell" font-size="12.5">Cabin air filter</text><rect x="1300" y="460" width="96" height="18" rx="9" fill="#FEF4E6"/><text x="1348" y="473" class="pill" font-size="9.5" fill="#A8720F" text-anchor="middle">declined 10 Mar</text>
+  <line x1="1076" y1="490" x2="1396" y2="490" stroke="#F4F6FA"/>
+  <text x="1076" y="518" class="cell" font-size="12.5">Wiper blades</text><rect x="1280" y="506" width="116" height="18" rx="9" fill="#EAF2FE"/><text x="1338" y="519" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">recommended</text>
+
+  <rect x="1076" y="560" width="320" height="58" rx="10" fill="#F4F6FB"/><text x="1092" y="586" class="lbl" font-size="11">COMEBACK RATE</text><text x="1092" y="606" class="cell" font-size="13">0 comebacks · 12 visits</text>
+</svg>

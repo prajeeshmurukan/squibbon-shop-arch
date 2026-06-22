@@ -1,0 +1,39 @@
+<svg viewBox="0 0 900 740" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Customer online payment</title>
+  <defs>
+    <filter id="psh" x="-8%" y="-5%" width="116%" height="110%"><feDropShadow dx="0" dy="8" stdDeviation="20" flood-color="#2A3547" flood-opacity="0.12"/></filter>
+    <g id="ic-lock" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4.5" y="9" width="11" height="8" rx="2"/><path d="M7 9 V6.5 a3 3 0 0 1 6 0 V9"/></g>
+    <g id="ic-card" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="2"/><path d="M2.5 8.5 h15 M5 12 h3"/></g>
+  </defs>
+  <style>
+    .h{fill:#2A3547;font-weight:600}.lbl{fill:#8A95A5;font-weight:500}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.ph{fill:#9AA4B2;font-weight:400}
+  </style>
+  <rect width="900" height="740" fill="#EEF1F6"/>
+  <rect x="200" y="36" width="500" height="668" rx="16" fill="#FFFFFF" filter="url(#psh)"/>
+
+  <rect x="230" y="66" width="30" height="30" rx="8" fill="#c479c2"/><text x="245" y="87" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text>
+  <text x="268" y="80" class="h" font-size="15">Mississauga Auto Service</text><text x="268" y="98" class="mut" font-size="11.5">Secure payment</text>
+  <line x1="230" y1="118" x2="670" y2="118" stroke="#ECEFF4"/>
+
+  <text x="230" y="150" class="h" font-size="14">Invoice INV-10428</text><text x="670" y="150" class="mut" font-size="12" text-anchor="end">22 Jun 2026</text>
+  <text x="230" y="170" class="mut" font-size="12">2019 Ford F-150 · Acme Fleet Ltd</text>
+
+  <rect x="230" y="186" width="440" height="84" rx="12" fill="#FFEBFE"/>
+  <text x="250" y="216" font-size="12.5" font-weight="600" fill="#8E3A8C">Balance due</text>
+  <text x="250" y="252" font-size="30" font-weight="700" fill="#c479c2">$511.90</text>
+  <text x="650" y="216" font-size="11.5" fill="#9A5198" text-anchor="end">Total $711.90</text><text x="650" y="234" font-size="11.5" fill="#9A5198" text-anchor="end">Deposit −$200.00</text>
+
+  <text x="230" y="306" class="lbl" font-size="12">Card number</text>
+  <rect x="230" y="314" width="440" height="44" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><g style="color:#8A95A5"><use href="#ic-card" x="246" y="329" width="18" height="18"/></g><text x="274" y="341" class="cell" font-size="14">1234 5678 9012 4242</text>
+  <text x="230" y="384" class="lbl" font-size="12">Expiry</text>
+  <rect x="230" y="392" width="210" height="44" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="248" y="419" class="cell" font-size="14">08 / 27</text>
+  <text x="460" y="384" class="lbl" font-size="12">CVC</text>
+  <rect x="460" y="392" width="210" height="44" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="478" y="419" class="cell" font-size="14">•••</text>
+  <text x="230" y="462" class="lbl" font-size="12">Name on card</text>
+  <rect x="230" y="470" width="440" height="44" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="248" y="497" class="cell" font-size="14">Acme Fleet Ltd</text>
+  <text x="230" y="540" class="lbl" font-size="12">Billing postal code</text>
+  <rect x="230" y="548" width="440" height="44" rx="8" fill="#FFFFFF" stroke="#DDE3EC"/><text x="248" y="575" class="cell" font-size="14">L5N 1A1</text>
+
+  <rect x="230" y="612" width="440" height="48" rx="10" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-lock" x="338" y="626" width="18" height="18"/></g><text x="364" y="642" font-size="14" font-weight="700" fill="#FFFFFF">Pay $511.90</text>
+  <text x="450" y="690" class="mut" font-size="11" text-anchor="middle">Secured by Squibbon Payments · PCI-compliant</text>
+</svg>
