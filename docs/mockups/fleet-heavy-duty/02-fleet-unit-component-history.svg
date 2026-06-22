@@ -1,0 +1,103 @@
+<svg viewBox="0 0 1440 820" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Fleet unit &amp; component history</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-radio" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="10" r="2.4"/><path d="M5.5 5.5 a6.4 6.4 0 0 0 0 9 M14.5 5.5 a6.4 6.4 0 0 1 0 9 M3 3 a9.6 9.6 0 0 0 0 14 M17 3 a9.6 9.6 0 0 1 0 14"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-clipcheck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.3 10 l1.6 1.6 3-3.2"/></g>
+    <g id="ic-doc" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 2.8 h5 l4 4 v10.4 a1 1 0 0 1-1 1 H6 a1 1 0 0 1-1-1 V3.8 a1 1 0 0 1 1-1z"/><path d="M11 2.8 v4 h4 M7.5 11 h5 M7.5 14 h3"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-check" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10.5 l3.6 3.6 L16 6"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.lbl{fill:#8A95A5;font-weight:600}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.val{fill:#2A3547;font-weight:600}.pill{font-weight:600}
+  </style>
+  <rect width="1440" height="820" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="820" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="820" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <g style="color:#5A6A85"><use href="#ic-clip" x="22" y="172" width="18" height="18"/></g><text x="50" y="186" class="navi" font-size="12.5">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="206" width="18" height="18"/></g><text x="50" y="220" class="navi" font-size="12.5">Customers</text>
+  <text x="24" y="258" class="col" font-size="11">FLEET</text>
+  <g style="color:#5A6A85"><use href="#ic-radio" x="22" y="268" width="18" height="18"/></g><text x="50" y="282" class="navi" font-size="12.5">Dispatch</text>
+  <rect x="12" y="300" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-truck" x="22" y="305" width="18" height="18"/></g><text x="50" y="319" font-size="12.5" font-weight="600" fill="#c479c2">Units</text>
+  <g style="color:#5A6A85"><use href="#ic-clipcheck" x="22" y="342" width="18" height="18"/></g><text x="50" y="356" class="navi" font-size="12.5">DVIR inbox</text>
+  <g style="color:#5A6A85"><use href="#ic-doc" x="22" y="380" width="18" height="18"/></g><text x="50" y="394" class="navi" font-size="12.5">Statements</text>
+  <text x="24" y="432" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="442" width="18" height="18"/></g><text x="50" y="456" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search unit, fleet or VIN…</text>
+  <rect x="1108" y="17" width="170" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-plus" x="1136" y="28" width="16" height="16"/></g><text x="1162" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">New work order</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">P. Nadeau</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Service mgr</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">PN</text>
+
+  <text x="280" y="116" font-size="22" font-weight="700" fill="#2A3547">Unit 88</text>
+  <rect x="360" y="101" width="150" height="22" rx="11" fill="#EAF2FE"/><text x="435" y="116" class="pill" font-size="11" fill="#1A5FB4" text-anchor="middle">Tractor · Bison Transport</text>
+  <text x="280" y="138" font-size="12.5" fill="#5A6A85">2021 Freightliner Cascadia · VIN 3AKJHHDR… · in service Mar 2021</text>
+
+  <!-- unit meters strip -->
+  <rect x="280" y="156" width="1136" height="72" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="182" class="lbl" font-size="10">ODOMETER</text><text x="304" y="206" class="val" font-size="16">412,180 km</text>
+  <text x="500" y="182" class="lbl" font-size="10">ENGINE HOURS</text><text x="500" y="206" class="val" font-size="16">9,840 hrs</text>
+  <text x="700" y="182" class="lbl" font-size="10">FUEL TYPE</text><text x="700" y="206" class="val" font-size="16">Diesel</text>
+  <text x="868" y="182" class="lbl" font-size="10">NSC / DOT</text><text x="868" y="206" class="val" font-size="16" fill="#A8720F">Insp. due 14 d</text>
+  <text x="1120" y="182" class="lbl" font-size="10">OPEN WORK</text><text x="1120" y="206" class="val" font-size="16">1 WO · 1 DVIR</text>
+
+  <!-- LEFT components -->
+  <rect x="280" y="244" width="640" height="514" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="304" y="274" class="h" font-size="15">Components</text><text x="896" y="274" class="mut" font-size="11" text-anchor="end">component-level history</text>
+  <line x1="304" y1="288" x2="896" y2="288" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <text x="304" y="316" class="val">Engine — Detroit DD15</text><text x="304" y="334" class="mut" font-size="11">Oil service 8,200 km ago · 9,840 hrs</text><rect x="804" y="304" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="850" y="318" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  <line x1="304" y1="350" x2="896" y2="350" stroke="#F4F6FA"/>
+  <text x="304" y="378" class="val">Transmission — DT12 automated</text><text x="304" y="396" class="mut" font-size="11">Fluid service May 2025</text><rect x="804" y="366" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="850" y="380" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  <line x1="304" y1="412" x2="896" y2="412" stroke="#F4F6FA"/>
+  <text x="304" y="440" class="val">Aftertreatment — DPF / DEF</text><text x="304" y="458" class="mut" font-size="11">Cleaned 12 Jun · DEF dosing fault logged</text><rect x="784" y="428" width="112" height="20" rx="10" fill="#FDECEC"/><text x="840" y="442" class="pill" font-size="9.5" fill="#C0392B" text-anchor="middle">Service due</text>
+  <line x1="304" y1="474" x2="896" y2="474" stroke="#F4F6FA"/>
+  <text x="304" y="502" class="val">Drive axles &amp; brakes</text><text x="304" y="520" class="mut" font-size="11">Relined May 2025 · 6 mm lining</text><rect x="804" y="490" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="850" y="504" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  <line x1="304" y1="536" x2="896" y2="536" stroke="#F4F6FA"/>
+  <text x="304" y="564" class="val">Steer axle &amp; front brakes</text><text x="304" y="582" class="mut" font-size="11">Alignment Mar 2025</text><rect x="804" y="552" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="850" y="566" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  <line x1="304" y1="598" x2="896" y2="598" stroke="#F4F6FA"/>
+  <text x="304" y="626" class="val">Tires (18)</text><text x="304" y="644" class="mut" font-size="11">2 drive tires replaced Mar · monitor steer</text><rect x="788" y="614" width="108" height="20" rx="10" fill="#FEF4E6"/><text x="842" y="628" class="pill" font-size="9.5" fill="#A8720F" text-anchor="middle">Monitor</text>
+  <line x1="304" y1="660" x2="896" y2="660" stroke="#F4F6FA"/>
+  <text x="304" y="688" class="val">APU</text><text x="304" y="706" class="mut" font-size="11">Serviced Apr 2025</text><rect x="804" y="676" width="92" height="20" rx="10" fill="#E6FBF5"/><text x="850" y="690" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">OK</text>
+  </g>
+  <text x="304" y="738" class="mut" font-size="11">Each component carries its own meters &amp; service history — repairs post to the component, not just the unit.</text>
+
+  <!-- RIGHT pm + history -->
+  <rect x="944" y="244" width="472" height="220" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="968" y="274" class="h" font-size="15">PM schedule</text><text x="1392" y="274" class="mut" font-size="11" text-anchor="end">DOT/NSC via Compliance →</text>
+  <line x1="968" y1="288" x2="1392" y2="288" stroke="#ECEFF4"/>
+  <g font-size="12.5">
+  <circle cx="976" cy="312" r="5" fill="#A8720F"/><text x="994" y="316" class="cell">PM-A lube/oil — every 25,000 km</text><text x="1392" y="316" class="pill" font-size="11" fill="#A8720F" text-anchor="end">due 1,200 km</text>
+  <circle cx="976" cy="344" r="5" fill="#C0392B"/><text x="994" y="348" class="cell">DPF / DEF service</text><text x="1392" y="348" class="pill" font-size="11" fill="#C0392B" text-anchor="end">overdue</text>
+  <circle cx="976" cy="376" r="5" fill="#A8720F"/><text x="994" y="380" class="cell">Annual NSC safety inspection</text><text x="1392" y="380" class="pill" font-size="11" fill="#A8720F" text-anchor="end">14 days</text>
+  <circle cx="976" cy="408" r="5" fill="#0F9C96"/><text x="994" y="412" class="cell">PM-B major — 80,000 km</text><text x="1392" y="412" class="pill" font-size="11" fill="#0F9C96" text-anchor="end">done</text>
+  <circle cx="976" cy="440" r="5" fill="#0F9C96"/><text x="994" y="444" class="cell">Coolant / SCA test</text><text x="1392" y="444" class="pill" font-size="11" fill="#0F9C96" text-anchor="end">done</text>
+  </g>
+
+  <rect x="944" y="478" width="472" height="280" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="968" y="508" class="h" font-size="15">Repair history</text>
+  <line x1="976" y1="528" x2="976" y2="730" stroke="#ECEFF4"/>
+  <circle cx="976" cy="546" r="5" fill="#c479c2"/><text x="998" y="542" class="val" font-size="12.5">12 Jun 2026 · 410,900 km</text><text x="998" y="560" class="mut" font-size="11">DPF cleaning · WO-10288</text><text x="1392" y="550" class="mut" font-size="11" text-anchor="end">$1,180</text>
+  <circle cx="976" cy="590" r="5" fill="#c479c2"/><text x="998" y="586" class="val" font-size="12.5">02 May 2026 · 398,400 km</text><text x="998" y="604" class="mut" font-size="11">Drive-axle brake reline · WO-10120</text><text x="1392" y="594" class="mut" font-size="11" text-anchor="end">$2,040</text>
+  <circle cx="976" cy="634" r="5" fill="#1A5FB4"/><text x="998" y="630" class="val" font-size="12.5">18 Apr 2026 · roadside</text><text x="998" y="648" class="mut" font-size="11">Air leak — service call · WO-9980</text><text x="1392" y="638" class="mut" font-size="11" text-anchor="end">$420</text>
+  <circle cx="976" cy="678" r="5" fill="#c479c2"/><text x="998" y="674" class="val" font-size="12.5">20 Mar 2026 · 388,100 km</text><text x="998" y="692" class="mut" font-size="11">Drive tires ×2 · WO-9905</text><text x="1392" y="682" class="mut" font-size="11" text-anchor="end">$1,360</text>
+  <text x="968" y="734" class="mut" font-size="10.5">Blue = roadside/mobile · purple = in-shop</text>
+</svg>

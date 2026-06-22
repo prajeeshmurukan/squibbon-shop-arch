@@ -1,0 +1,108 @@
+<svg viewBox="0 0 1440 820" xmlns="http://www.w3.org/2000/svg" font-family="'Plus Jakarta Sans','Inter','Segoe UI',system-ui,sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Squibbon Shop — Mobile / roadside dispatch</title>
+  <defs>
+    <filter id="sh" x="-6%" y="-10%" width="112%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#2A3547" flood-opacity="0.07"/></filter>
+    <g id="ic-grid" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="6" height="6" rx="1.5"/><rect x="11" y="3" width="6" height="6" rx="1.5"/><rect x="3" y="11" width="6" height="6" rx="1.5"/><rect x="11" y="11" width="6" height="6" rx="1.5"/></g>
+    <g id="ic-board" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3.5" width="4" height="13" rx="1"/><rect x="8" y="3.5" width="4" height="9" rx="1"/><rect x="13" y="3.5" width="4" height="13" rx="1"/></g>
+    <g id="ic-clip" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.2 9 h5.6 M7.2 12 h5.6"/></g>
+    <g id="ic-user" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="7" r="3.2"/><path d="M4.5 16.5 a5.5 5.5 0 0 1 11 0"/></g>
+    <g id="ic-radio" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="10" cy="10" r="2.4"/><path d="M5.5 5.5 a6.4 6.4 0 0 0 0 9 M14.5 5.5 a6.4 6.4 0 0 1 0 9 M3 3 a9.6 9.6 0 0 0 0 14 M17 3 a9.6 9.6 0 0 1 0 14"/></g>
+    <g id="ic-truck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M2.5 6 h8 v7 h-8 z"/><path d="M10.5 8.5 h3.2 l2.4 2.3 v2.2 h-5.6 z"/><circle cx="6" cy="15" r="1.5"/><circle cx="13.7" cy="15" r="1.5"/></g>
+    <g id="ic-clipcheck" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><rect x="4.5" y="3.5" width="11" height="13.5" rx="2"/><rect x="7.5" y="2" width="5" height="3" rx="1"/><path d="M7.3 10 l1.6 1.6 3-3.2"/></g>
+    <g id="ic-doc" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 2.8 h5 l4 4 v10.4 a1 1 0 0 1-1 1 H6 a1 1 0 0 1-1-1 V3.8 a1 1 0 0 1 1-1z"/><path d="M11 2.8 v4 h4 M7.5 11 h5 M7.5 14 h3"/></g>
+    <g id="ic-slider" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M3 7 h14 M3 13 h14"/><circle cx="8" cy="7" r="1.9" fill="#fff"/><circle cx="13" cy="13" r="1.9" fill="#fff"/></g>
+    <g id="ic-search" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="9" cy="9" r="5.5"/><path d="M13.2 13.2 L17.2 17.2"/></g>
+    <g id="ic-bell" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M10 3 a4.6 4.6 0 0 1 4.6 4.6 c0 4 1.4 5.4 1.4 5.4 h-12 s1.4-1.4 1.4-5.4 a4.6 4.6 0 0 1 4.6-4.6z"/><path d="M8.3 16 a1.8 1.8 0 0 0 3.4 0"/></g>
+    <g id="ic-menu" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 6 h16 M3 11 h16 M3 16 h16"/></g>
+    <g id="ic-plus" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 4 V16 M4 10 H16"/></g>
+    <g id="ic-pin" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M10 17 s5-4.5 5-9 a5 5 0 0 0-10 0 c0 4.5 5 9 5 9z"/><circle cx="10" cy="8" r="1.7"/></g>
+  </defs>
+  <style>
+    .navi{fill:#5A6A85;font-weight:500}.col{fill:#8A95A5;font-weight:600;letter-spacing:.4px}
+    .h{fill:#2A3547;font-weight:600}.cell{fill:#2A3547;font-weight:500}.mut{fill:#8A95A5;font-weight:500}.pill{font-weight:600}.val{fill:#2A3547;font-weight:600}.ckh{fill:#5A6A85;font-weight:700;letter-spacing:.3px}
+  </style>
+  <rect width="1440" height="820" fill="#F4F6FB"/>
+  <rect x="0" y="0" width="256" height="820" fill="#FFFFFF"/><line x1="256" y1="0" x2="256" y2="820" stroke="#ECEFF4"/>
+  <rect x="24" y="21" width="30" height="30" rx="8" fill="#c479c2"/><text x="39" y="42" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text><text x="66" y="42" font-size="19" font-weight="700" fill="#2A3547">Squibbon</text>
+  <rect x="170" y="26" width="58" height="18" rx="9" fill="#E6FBFA"/><text x="199" y="39" font-size="10.5" font-weight="700" fill="#0F9C96" text-anchor="middle">SHOP</text>
+  <text x="24" y="90" class="col" font-size="11">SHOP</text>
+  <g style="color:#5A6A85"><use href="#ic-grid" x="22" y="100" width="18" height="18"/></g><text x="50" y="114" class="navi" font-size="12.5">Dashboard</text>
+  <g style="color:#5A6A85"><use href="#ic-board" x="22" y="138" width="18" height="18"/></g><text x="50" y="152" class="navi" font-size="12.5">Workflow</text>
+  <g style="color:#5A6A85"><use href="#ic-clip" x="22" y="172" width="18" height="18"/></g><text x="50" y="186" class="navi" font-size="12.5">Work orders</text>
+  <g style="color:#5A6A85"><use href="#ic-user" x="22" y="206" width="18" height="18"/></g><text x="50" y="220" class="navi" font-size="12.5">Customers</text>
+  <text x="24" y="258" class="col" font-size="11">FLEET</text>
+  <rect x="12" y="268" width="232" height="28" rx="7" fill="#FFEBFE"/>
+  <g style="color:#c479c2"><use href="#ic-radio" x="22" y="273" width="18" height="18"/></g><text x="50" y="287" font-size="12.5" font-weight="600" fill="#c479c2">Dispatch</text>
+  <g style="color:#5A6A85"><use href="#ic-truck" x="22" y="310" width="18" height="18"/></g><text x="50" y="324" class="navi" font-size="12.5">Units</text>
+  <g style="color:#5A6A85"><use href="#ic-clipcheck" x="22" y="348" width="18" height="18"/></g><text x="50" y="362" class="navi" font-size="12.5">DVIR inbox</text>
+  <g style="color:#5A6A85"><use href="#ic-doc" x="22" y="386" width="18" height="18"/></g><text x="50" y="400" class="navi" font-size="12.5">Statements</text>
+  <text x="24" y="438" class="col" font-size="11">SETTINGS</text>
+  <g style="color:#5A6A85"><use href="#ic-slider" x="22" y="448" width="18" height="18"/></g><text x="50" y="462" class="navi" font-size="12.5">Shop settings</text>
+
+  <rect x="256" y="0" width="1184" height="72" fill="#FFFFFF"/><line x1="256" y1="72" x2="1440" y2="72" stroke="#ECEFF4"/>
+  <g style="color:#5A6A85"><use href="#ic-menu" x="282" y="26" width="20" height="20"/></g>
+  <rect x="324" y="18" width="300" height="36" rx="18" fill="#F4F6FB"/><g style="color:#8A95A5"><use href="#ic-search" x="340" y="27" width="18" height="18"/></g><text x="366" y="41" font-size="12.5" fill="#9AA4B2">Search unit, fleet or location…</text>
+  <rect x="1108" y="17" width="170" height="38" rx="8" fill="#c479c2"/><g style="color:#FFFFFF"><use href="#ic-plus" x="1136" y="28" width="16" height="16"/></g><text x="1162" y="41" font-size="12.5" font-weight="600" fill="#FFFFFF">New service call</text>
+  <g style="color:#5A6A85"><use href="#ic-bell" x="1300" y="26" width="20" height="20"/></g><circle cx="1317" cy="27" r="4" fill="#FA5A5A"/>
+  <text x="1368" y="33" font-size="12.5" font-weight="600" fill="#2A3547" text-anchor="end">P. Nadeau</text><text x="1368" y="47" font-size="10.5" fill="#8A95A5" text-anchor="end">Dispatcher</text>
+  <circle cx="1392" cy="36" r="16" fill="#FFEBFE"/><text x="1392" y="40" font-size="12" font-weight="700" fill="#c479c2" text-anchor="middle">PN</text>
+
+  <text x="280" y="116" font-size="22" font-weight="700" fill="#2A3547">Dispatch board</text>
+  <text x="280" y="138" font-size="13" fill="#5A6A85">Roadside &amp; on-site service calls · assign to a service truck · convert to a work order</text>
+
+  <!-- trucks strip -->
+  <rect x="280" y="156" width="1136" height="76" rx="12" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="300" y="182" class="col" font-size="10">SERVICE TRUCKS</text>
+  <rect x="300" y="190" width="252" height="30" rx="8" fill="#E6FBF5"/><g style="color:#0F9C96"><use href="#ic-truck" x="312" y="197" width="16" height="16"/></g><text x="336" y="209" class="val" font-size="11.5">Truck 1 · A. Roy</text><text x="544" y="209" class="pill" font-size="10" fill="#0F9C96" text-anchor="end">Available</text>
+  <rect x="566" y="190" width="252" height="30" rx="8" fill="#FEF4E6"/><g style="color:#A8720F"><use href="#ic-truck" x="578" y="197" width="16" height="16"/></g><text x="602" y="209" class="val" font-size="11.5">Truck 2 · K. Lee</text><text x="810" y="209" class="pill" font-size="10" fill="#A8720F" text-anchor="end">On a call</text>
+  <rect x="832" y="190" width="252" height="30" rx="8" fill="#EEF1F6"/><g style="color:#5A6A85"><use href="#ic-truck" x="844" y="197" width="16" height="16"/></g><text x="868" y="209" class="val" font-size="11.5">Truck 3 · M. Diallo</text><text x="1076" y="209" class="pill" font-size="10" fill="#5A6A85" text-anchor="end">In shop</text>
+  <text x="1396" y="209" class="mut" font-size="11" text-anchor="end">3 trucks · 1 mobile bay</text>
+
+  <!-- columns -->
+  <g class="ckh" font-size="11">
+  <text x="290" y="262">REQUESTED · 2</text><text x="578" y="262">DISPATCHED · 1</text><text x="866" y="262">EN ROUTE · 1</text><text x="1154" y="262">ON SITE · 1</text>
+  </g>
+  <rect x="280" y="272" width="272" height="6" rx="3" fill="#C0392B" opacity="0.5"/>
+  <rect x="568" y="272" width="272" height="6" rx="3" fill="#A8720F" opacity="0.4"/>
+  <rect x="856" y="272" width="272" height="6" rx="3" fill="#1A5FB4" opacity="0.4"/>
+  <rect x="1144" y="272" width="272" height="6" rx="3" fill="#0F9C96" opacity="0.5"/>
+
+  <!-- requested -->
+  <rect x="280" y="290" width="272" height="156" rx="11" fill="#FFFFFF" stroke="#F0C9C0" filter="url(#sh)"/>
+  <rect x="296" y="304" width="64" height="20" rx="10" fill="#FDECEC"/><text x="328" y="318" class="pill" font-size="9.5" fill="#C0392B" text-anchor="middle">URGENT</text>
+  <text x="296" y="346" class="val" font-size="13">Northstar Logistics</text><text x="296" y="366" class="mut" font-size="11">Unit 4471 · reefer trailer</text>
+  <g style="color:#8A95A5"><use href="#ic-pin" x="294" y="376" width="14" height="14"/></g><text x="314" y="388" class="mut" font-size="11">Hwy 401 EB, Milton</text>
+  <text x="296" y="410" class="cell" font-size="11.5">"Reefer not cooling — load at risk"</text>
+  <rect x="296" y="418" width="240" height="20" rx="6" fill="#FEF6F4"/><text x="306" y="432" font-size="10" fill="#C0392B">via FleetNet emergency · 6 min ago</text>
+
+  <rect x="280" y="456" width="272" height="120" rx="11" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <text x="296" y="484" class="val" font-size="13">Acme Fleet Ltd</text><text x="296" y="504" class="mut" font-size="11">Unit 12 · 2019 Ford F-150</text>
+  <g style="color:#8A95A5"><use href="#ic-pin" x="294" y="514" width="14" height="14"/></g><text x="314" y="526" class="mut" font-size="11">Mississauga yard</text>
+  <text x="296" y="548" class="cell" font-size="11.5">"No start — needs a jump / diag"</text>
+  <rect x="296" y="556" width="120" height="12" rx="6" fill="#EEF1F6"/>
+
+  <!-- dispatched -->
+  <rect x="568" y="290" width="272" height="150" rx="11" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <rect x="584" y="304" width="76" height="20" rx="10" fill="#FEF4E6"/><text x="622" y="318" class="pill" font-size="9.5" fill="#A8720F" text-anchor="middle">Assigned</text>
+  <text x="584" y="346" class="val" font-size="13">Bison Transport</text><text x="584" y="366" class="mut" font-size="11">Unit 88 · tractor</text>
+  <g style="color:#8A95A5"><use href="#ic-pin" x="582" y="376" width="14" height="14"/></g><text x="602" y="388" class="mut" font-size="11">Rest stop, Hwy 400</text>
+  <rect x="584" y="402" width="240" height="24" rx="7" fill="#FEF4E6"/><g style="color:#A8720F"><use href="#ic-truck" x="594" y="408" width="14" height="14"/></g><text x="616" y="419" font-size="11" font-weight="600" fill="#A8720F">Truck 2 · K. Lee · departing</text>
+
+  <!-- en route -->
+  <rect x="856" y="290" width="272" height="170" rx="11" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <rect x="872" y="304" width="84" height="20" rx="10" fill="#EAF2FE"/><text x="914" y="318" class="pill" font-size="9.5" fill="#1A5FB4" text-anchor="middle">En route</text>
+  <text x="872" y="346" class="val" font-size="13">Northstar Logistics</text><text x="872" y="366" class="mut" font-size="11">Unit 4471 · reefer</text>
+  <rect x="872" y="378" width="240" height="58" rx="8" fill="#F4F6FB"/>
+  <g style="color:#0F9C96"><use href="#ic-truck" x="884" y="392" width="16" height="16"/></g><text x="908" y="404" class="val" font-size="11.5">Truck 1 · A. Roy</text><text x="908" y="422" class="mut" font-size="11">ETA 20 min · 14 km out</text>
+  <text x="1100" y="404" class="pill" font-size="11" fill="#0F9C96" text-anchor="end">live</text>
+
+  <!-- on site -->
+  <rect x="1144" y="290" width="272" height="160" rx="11" fill="#FFFFFF" stroke="#ECEFF4" filter="url(#sh)"/>
+  <rect x="1160" y="304" width="72" height="20" rx="10" fill="#E6FBF5"/><text x="1196" y="318" class="pill" font-size="9.5" fill="#0F9C96" text-anchor="middle">On site</text>
+  <text x="1160" y="346" class="val" font-size="13">Acme Fleet Ltd</text><text x="1160" y="366" class="mut" font-size="11">Unit 7 · dry van trailer</text>
+  <text x="1160" y="388" class="cell" font-size="11.5">Brake adjustment + light</text>
+  <rect x="1160" y="398" width="240" height="42" rx="8" fill="#E6FBF5"/><g style="color:#0F9C96"><use href="#ic-truck" x="1172" y="410" width="14" height="14"/></g><text x="1194" y="421" font-size="11" font-weight="600" fill="#0F9C96">Truck 3 · on-site 25 min</text>
+  <text x="1160" y="436" class="pill" font-size="0">.</text>
+
+  <text x="280" y="486" class="mut" font-size="12">Completing a call converts it to a work order against the unit — travel time, on-site labour and service-truck parts carry over.</text>
+</svg>
